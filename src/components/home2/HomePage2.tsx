@@ -1,8 +1,6 @@
 import About2 from "./About2";
 import Faq2 from "./Faq2";
-import Footer2 from "./Footer2";
 import Gallery2 from "./Gallery2";
-import Header2 from "./Header2";
 import Hero2 from "./Hero2";
 import HowItWorks2 from "./HowItWorks2";
 import QuoteContact2 from "./QuoteContact2";
@@ -12,8 +10,7 @@ import WhyChooseUsBento2 from "./WhyChooseUsBento2";
 
 export default function HomePage2() {
   return (
-    <>
-      <Header2 />
+    <main>
       <Hero2 />
       <TrustStrip2 />
       <ServicesGrid2 />
@@ -23,7 +20,6 @@ export default function HomePage2() {
       <Gallery2 />
       <QuoteContact2 />
       <Faq2 />
-      <Footer2 />
-    </>
+    </main>
   );
 }

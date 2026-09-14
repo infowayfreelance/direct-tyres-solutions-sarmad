@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Chivo, Inter, JetBrains_Mono } from "next/font/google";
+import Header3 from "@/components/home3/Header3";
+import Footer3 from "@/components/home3/Footer3";
 import "./globals.css";
 
 const inter = Inter({
@@ -38,7 +40,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${inter.variable} ${chivo.variable} ${jetbrainsMono.variable}`}
     >
       <body className="bg-surface text-text-main font-sans antialiased overflow-x-hidden selection:bg-secondary selection:text-primary">
+        <Header3 />
         {children}
+        <Footer3 />
       </body>
     </html>
   );

@@ -3,17 +3,21 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Menu, PhoneCall, X } from "lucide-react";
 import { navLinks3, siteConfig3 } from "@/lib/site-data3";
 import { AreasMegaMenuDesktop, AreasMegaMenuMobile } from "@/components/AreasMegaMenu";
+import { locationAreas } from "@/lib/locations-data";
 
 export default function Header3() {
   const [menuOpen, setMenuOpen] = useState(false);
   const telHref = `tel:${siteConfig3.phone.replace(/\s/g, "")}`;
+  const pathname = usePathname();
+  const currentSlug = locationAreas.find((area) => area.href === pathname)?.slug;
 
   return (
     <header className="fixed top-0 w-full z-50 bg-primary-dark shadow-[0_2px_10px_rgba(0,0,0,0.35)]">
-      <div className="flex items-center justify-between w-full px-4 md:px-8 py-3 max-w-7xl mx-auto gap-4">
+      <div className="h-20 flex items-center justify-between w-full px-4 md:px-8 max-w-7xl mx-auto gap-4">
         <Link href="/" className="flex items-center h-12 shrink-0">
           <Image
             alt={`${siteConfig3.name} Logo`}
@@ -26,15 +30,17 @@ export default function Header3() {
         </Link>
 
         <nav className="hidden lg:flex items-center gap-8">
-          {navLinks3.map((link, i) =>
+          {navLinks3.map((link) =>
             link.label === "Areas We Cover" ? (
-              <AreasMegaMenuDesktop key={link.label} phone={siteConfig3.phone} />
+              <AreasMegaMenuDesktop key={link.label} currentSlug={currentSlug} phone={siteConfig3.phone} />
             ) : (
               <a
                 key={link.label}
                 href={link.href}
                 className={`nav-link text-sm font-semibold transition-colors ${
-                  i === 0 ? "nav-link-active text-white" : "text-gray-300 hover:text-white"
+                  link.href === "/" && pathname === "/"
+                    ? "nav-link-active text-white"
+                    : "text-gray-300 hover:text-white"
                 }`}
               >
                 {link.label}
@@ -79,7 +85,11 @@ export default function Header3() {
           <div className="flex flex-col px-4 py-4 space-y-1">
             {navLinks3.map((link) =>
               link.label === "Areas We Cover" ? (
-                <AreasMegaMenuMobile key={link.label} onNavigate={() => setMenuOpen(false)} />
+                <AreasMegaMenuMobile
+                  key={link.label}
+                  currentSlug={currentSlug}
+                  onNavigate={() => setMenuOpen(false)}
+                />
               ) : (
                 <a
                   key={link.label}
