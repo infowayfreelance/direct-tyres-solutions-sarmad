@@ -13,7 +13,7 @@ export default function Header3() {
   return (
     <header className="fixed top-0 w-full z-50 bg-primary-dark shadow-[0_2px_10px_rgba(0,0,0,0.35)]">
       <div className="flex items-center justify-between w-full px-4 md:px-8 py-3 max-w-7xl mx-auto gap-4">
-        <Link href="/home-3" className="flex items-center h-12 shrink-0">
+        <Link href="/" className="flex items-center h-12 shrink-0">
           <Image
             alt={`${siteConfig3.name} Logo`}
             src={siteConfig3.logo}
