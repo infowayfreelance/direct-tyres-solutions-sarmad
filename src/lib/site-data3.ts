@@ -7,7 +7,7 @@ export const siteConfig3 = {
 };
 
 export const navLinks3 = [
-  { label: "Home", href: "/home-3" },
+  { label: "Home", href: "/" },
   { label: "Services", href: "#services" },
   { label: "Why Choose Us", href: "#trust" },
   { label: "Areas We Cover", href: "#" },
@@ -96,7 +96,7 @@ export const testimonials3 = [
 
 export const footerLinks3 = {
   quickLinks: [
-    { label: "Home", href: "/home-3" },
+    { label: "Home", href: "/" },
     { label: "Services", href: "#services" },
     { label: "Why Choose Us", href: "#trust" },
     { label: "Reviews", href: "#reviews" },

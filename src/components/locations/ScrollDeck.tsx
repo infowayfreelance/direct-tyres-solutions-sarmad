@@ -22,7 +22,7 @@ export default function ScrollDeck({ children }: { children: ReactNode }) {
           type="button"
           onClick={() => scrollByCard(-1)}
           aria-label="Scroll left"
-          className="w-10 h-10 rounded-full bg-white hover:bg-gray-100 flex items-center justify-center text-[#0b1e3d] shadow-sm transition-colors"
+          className="w-10 h-10 rounded-full bg-white hover:bg-gray-100 flex items-center justify-center text-primary shadow-sm transition-colors"
         >
           <ChevronLeft className="h-5 w-5" />
         </button>
@@ -30,7 +30,7 @@ export default function ScrollDeck({ children }: { children: ReactNode }) {
           type="button"
           onClick={() => scrollByCard(1)}
           aria-label="Scroll right"
-          className="w-10 h-10 rounded-full bg-[#1b61ff] hover:bg-[#004ad2] flex items-center justify-center text-white shadow-sm transition-colors"
+          className="w-10 h-10 rounded-full bg-secondary hover:bg-secondary-hover flex items-center justify-center text-primary shadow-sm transition-colors"
         >
           <ChevronRight className="h-5 w-5" />
         </button>

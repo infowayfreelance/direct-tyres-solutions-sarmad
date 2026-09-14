@@ -8,7 +8,7 @@ export default function LocationFooter() {
   const telHref = `tel:${siteConfigV2.phone.replace(/\s/g, "")}`;
 
   return (
-    <footer className="w-full bg-[#0b1e3d] text-white/70 py-16">
+    <footer className="w-full bg-primary text-white/70 py-16">
       <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
         <div className="space-y-4">
           <div className="flex items-center gap-2">
@@ -26,7 +26,7 @@ export default function LocationFooter() {
             Manchester and surrounding areas.
           </p>
           <div className="flex items-center gap-2 pt-1">
-            <Star className="h-5 w-5 text-[#ffd700]" fill="currentColor" strokeWidth={0} />
+            <Star className="h-5 w-5 text-secondary" fill="currentColor" strokeWidth={0} />
             <span className="text-sm font-semibold text-white">5.0 / 5.0</span>
             <span className="text-sm">(1,400+ Verified Roadside Rescues)</span>
           </div>
@@ -58,30 +58,30 @@ export default function LocationFooter() {
         <div className="space-y-3">
           <h4 className="text-base font-semibold text-white mb-2">Contact</h4>
           <div className="flex items-start gap-2">
-            <PhoneCall className="h-5 w-5 text-[#1b61ff] mt-0.5" />
+            <PhoneCall className="h-5 w-5 text-secondary mt-0.5" />
             <div>
-              <div className="text-[11px] font-bold uppercase tracking-wider text-[#dce1ff]">Phone</div>
-              <a href={telHref} className="text-lg font-semibold text-white hover:text-[#1b61ff] transition-colors">
+              <div className="text-[11px] font-bold uppercase tracking-wider text-secondary-hover">Phone</div>
+              <a href={telHref} className="text-lg font-semibold text-white hover:text-secondary transition-colors">
                 {siteConfigV2.phone}
               </a>
             </div>
           </div>
           <div className="flex items-start gap-2">
-            <Mail className="h-5 w-5 text-[#1b61ff] mt-0.5" />
+            <Mail className="h-5 w-5 text-secondary mt-0.5" />
             <div>
-              <div className="text-[11px] font-bold uppercase tracking-wider text-[#dce1ff]">Email</div>
+              <div className="text-[11px] font-bold uppercase tracking-wider text-secondary-hover">Email</div>
               <a
                 href={`mailto:${siteConfigV2.email}`}
-                className="text-sm text-white hover:text-[#1b61ff] transition-colors"
+                className="text-sm text-white hover:text-secondary transition-colors"
               >
                 {siteConfigV2.email}
               </a>
             </div>
           </div>
           <div className="flex items-start gap-2">
-            <Clock className="h-5 w-5 text-[#1b61ff] mt-0.5" />
+            <Clock className="h-5 w-5 text-secondary mt-0.5" />
             <div>
-              <div className="text-[11px] font-bold uppercase tracking-wider text-[#dce1ff]">Availability</div>
+              <div className="text-[11px] font-bold uppercase tracking-wider text-secondary-hover">Availability</div>
               <div className="text-sm text-white">24 Hours A Day / 7 Days A Week</div>
             </div>
           </div>

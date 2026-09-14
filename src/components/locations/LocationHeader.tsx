@@ -20,7 +20,7 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
   ];
 
   return (
-    <header className="fixed top-0 w-full z-50 bg-[#0b1e3d] shadow-[0_1px_8px_rgba(0,0,0,0.12)]">
+    <header className="fixed top-0 w-full z-50 bg-primary shadow-[0_1px_8px_rgba(0,0,0,0.12)]">
       <div className="h-20 max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <Image
@@ -63,7 +63,7 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
             </button>
             {areasOpen && (
               <div className="absolute left-0 top-full pt-1 w-72 z-50">
-                <div className="bg-[#0b1e3d] rounded-xl shadow-xl p-3 grid grid-cols-1 gap-1 border border-white/10">
+                <div className="bg-primary rounded-xl shadow-xl p-3 grid grid-cols-1 gap-1 border border-white/10">
                   {locationAreas.map((area) => (
                     <Link
                       key={area.slug}
@@ -94,18 +94,18 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
         <div className="hidden md:flex items-center gap-4 shrink-0">
           <a
             href={telHref}
-            className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#000516] text-white hover:bg-[#1b61ff] transition-colors"
+            className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-primary-dark text-white hover:bg-secondary transition-colors hover:text-primary"
           >
             <span className="relative flex h-2.5 w-2.5">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#dce1ff] opacity-75" />
-              <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#1b61ff]" />
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-secondary/15 opacity-75" />
+              <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-secondary" />
             </span>
-            <span className="text-[11px] font-bold uppercase tracking-wider text-[#dce1ff]">24/7 LIVE</span>
+            <span className="text-[11px] font-bold uppercase tracking-wider text-secondary-hover">24/7 LIVE</span>
             <span className="text-sm font-bold text-white">{siteConfigV2.phone}</span>
           </a>
           <Link
             href="/#contact"
-            className="inline-flex items-center justify-center px-6 py-2 rounded-full bg-[#1b61ff] text-white hover:bg-[#004ad2] transition-colors text-sm font-semibold shadow-sm"
+            className="inline-flex items-center justify-center px-6 py-2 rounded-full bg-secondary text-primary hover:bg-secondary-hover transition-colors text-sm font-semibold shadow-sm"
           >
             Get Quote
           </Link>
@@ -123,7 +123,7 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
       </div>
 
       {menuOpen && (
-        <div className="xl:hidden border-t border-white/10 bg-[#0b1e3d] max-h-[calc(100vh-5rem)] overflow-y-auto">
+        <div className="xl:hidden border-t border-white/10 bg-primary max-h-[calc(100vh-5rem)] overflow-y-auto">
           <div className="flex flex-col px-4 py-4 space-y-1">
             {navLinks.map((link) => (
               <Link
@@ -171,7 +171,7 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
             </Link>
             <a
               href={telHref}
-              className="flex items-center justify-center gap-2 px-6 py-3 mt-3 bg-[#1b61ff] text-white font-bold rounded-full"
+              className="flex items-center justify-center gap-2 px-6 py-3 mt-3 bg-secondary text-primary font-bold rounded-full"
             >
               <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
               {siteConfigV2.phone}
