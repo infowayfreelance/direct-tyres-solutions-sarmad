@@ -6,7 +6,7 @@ export default function CTA3() {
   const telHref = `tel:${siteConfig3.phone.replace(/\s/g, "")}`;
 
   return (
-    <section className="py-16 px-4 md:px-8">
+    <section id="contact" className="py-16 px-4 md:px-8 scroll-mt-24">
       <div className="max-w-7xl mx-auto">
         <Reveal>
           <div className="relative overflow-hidden rounded-3xl bg-primary-dark p-8 md:p-10 shadow-xl">
