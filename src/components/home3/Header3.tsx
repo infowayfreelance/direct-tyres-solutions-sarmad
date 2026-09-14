@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Menu, PhoneCall, X } from "lucide-react";
 import { navLinks3, siteConfig3 } from "@/lib/site-data3";
+import { AreasMegaMenuDesktop, AreasMegaMenuMobile } from "@/components/AreasMegaMenu";
 
 export default function Header3() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -25,17 +26,21 @@ export default function Header3() {
         </Link>
 
         <nav className="hidden lg:flex items-center gap-8">
-          {navLinks3.map((link, i) => (
-            <a
-              key={link.label}
-              href={link.href}
-              className={`nav-link text-sm font-semibold transition-colors ${
-                i === 0 ? "nav-link-active text-white" : "text-gray-300 hover:text-white"
-              }`}
-            >
-              {link.label}
-            </a>
-          ))}
+          {navLinks3.map((link, i) =>
+            link.label === "Areas We Cover" ? (
+              <AreasMegaMenuDesktop key={link.label} phone={siteConfig3.phone} />
+            ) : (
+              <a
+                key={link.label}
+                href={link.href}
+                className={`nav-link text-sm font-semibold transition-colors ${
+                  i === 0 ? "nav-link-active text-white" : "text-gray-300 hover:text-white"
+                }`}
+              >
+                {link.label}
+              </a>
+            ),
+          )}
         </nav>
 
         <div className="hidden md:flex items-center gap-5 shrink-0">
@@ -72,16 +77,20 @@ export default function Header3() {
       {menuOpen && (
         <div className="lg:hidden border-t border-white/10 bg-primary-dark">
           <div className="flex flex-col px-4 py-4 space-y-1">
-            {navLinks3.map((link) => (
-              <a
-                key={link.label}
-                href={link.href}
-                className="py-2 text-sm font-semibold text-gray-300"
-                onClick={() => setMenuOpen(false)}
-              >
-                {link.label}
-              </a>
-            ))}
+            {navLinks3.map((link) =>
+              link.label === "Areas We Cover" ? (
+                <AreasMegaMenuMobile key={link.label} onNavigate={() => setMenuOpen(false)} />
+              ) : (
+                <a
+                  key={link.label}
+                  href={link.href}
+                  className="py-2 text-sm font-semibold text-gray-300"
+                  onClick={() => setMenuOpen(false)}
+                >
+                  {link.label}
+                </a>
+              ),
+            )}
             <a
               href={telHref}
               className="flex items-center justify-center gap-2 px-6 py-3 mt-3 bg-secondary text-primary font-bold rounded-full"

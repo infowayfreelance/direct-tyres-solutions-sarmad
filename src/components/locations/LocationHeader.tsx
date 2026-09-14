@@ -3,14 +3,12 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown, Menu, PhoneCall, X } from "lucide-react";
+import { Menu, PhoneCall, X } from "lucide-react";
 import { siteConfigV2 } from "@/lib/site-data-v2";
-import { locationAreas } from "@/lib/locations-data";
+import { AreasMegaMenuDesktop, AreasMegaMenuMobile } from "@/components/AreasMegaMenu";
 
 export default function LocationHeader({ currentSlug }: { currentSlug?: string }) {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [areasOpen, setAreasOpen] = useState(false);
-  const [mobileAreasOpen, setMobileAreasOpen] = useState(false);
   const telHref = `tel:${siteConfigV2.phone.replace(/\s/g, "")}`;
 
   const navLinks = [
@@ -47,41 +45,12 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
             </Link>
           ))}
 
-          <div
-            className="relative py-3"
-            onMouseEnter={() => setAreasOpen(true)}
-            onMouseLeave={() => setAreasOpen(false)}
-          >
-            <button
-              type="button"
-              className="flex items-center gap-1 text-sm font-semibold text-white/70 hover:text-white transition-colors cursor-pointer"
-              aria-expanded={areasOpen}
-              onClick={() => setAreasOpen((open) => !open)}
-            >
-              <span>Areas</span>
-              <ChevronDown className={`h-4 w-4 transition-transform ${areasOpen ? "rotate-180" : ""}`} />
-            </button>
-            {areasOpen && (
-              <div className="absolute left-0 top-full pt-1 w-72 z-50">
-                <div className="bg-primary rounded-xl shadow-xl p-3 grid grid-cols-1 gap-1 border border-white/10">
-                  {locationAreas.map((area) => (
-                    <Link
-                      key={area.slug}
-                      href={area.href}
-                      onClick={() => setAreasOpen(false)}
-                      className={`px-3 py-2 rounded font-medium text-sm transition-colors hover:bg-white/5 ${
-                        area.slug === currentSlug
-                          ? "text-white font-bold"
-                          : "text-white/70 hover:text-white"
-                      }`}
-                    >
-                      {area.label}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
+          <AreasMegaMenuDesktop
+            currentSlug={currentSlug}
+            phone={siteConfigV2.phone}
+            label="Areas"
+            triggerClassName="text-sm font-semibold text-white/70 hover:text-white transition-colors"
+          />
 
           <Link
             href="/#contact"
@@ -135,33 +104,7 @@ export default function LocationHeader({ currentSlug }: { currentSlug?: string }
                 {link.label}
               </Link>
             ))}
-            <div>
-              <button
-                type="button"
-                className="w-full flex items-center justify-between py-2 text-sm font-semibold text-white/80"
-                aria-expanded={mobileAreasOpen}
-                onClick={() => setMobileAreasOpen((open) => !open)}
-              >
-                Areas
-                <ChevronDown className={`h-4 w-4 transition-transform ${mobileAreasOpen ? "rotate-180" : ""}`} />
-              </button>
-              {mobileAreasOpen && (
-                <div className="pl-3 pb-2 space-y-1">
-                  {locationAreas.map((area) => (
-                    <Link
-                      key={area.slug}
-                      href={area.href}
-                      className={`block py-2 text-sm font-medium ${
-                        area.slug === currentSlug ? "text-white font-bold" : "text-white/70"
-                      }`}
-                      onClick={() => setMenuOpen(false)}
-                    >
-                      {area.label}
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
+            <AreasMegaMenuMobile currentSlug={currentSlug} onNavigate={() => setMenuOpen(false)} />
             <Link
               href="/#contact"
               className="py-2 text-sm font-semibold text-white/80"
