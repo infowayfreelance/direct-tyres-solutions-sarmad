@@ -35,6 +35,12 @@ export const locationAreas = [
   },
   { slug: "ancoats", label: "Ancoats", href: "/mobile-tyre-fitting-ancoats", region: "Manchester" },
   {
+    slug: "wythenshawe",
+    label: "Wythenshawe",
+    href: "/mobile-tyre-fitting-wythenshawe",
+    region: "Manchester",
+  },
+  {
     slug: "cheetham-hill",
     label: "Cheetham Hill",
     href: "/mobile-tyre-fitting-cheetham-hill",
@@ -67,6 +73,30 @@ export const locationAreas = [
     label: "Rochdale",
     href: "/mobile-tyre-fitting-rochdale",
     region: "Greater Manchester East",
+  },
+  {
+    slug: "middleton",
+    label: "Middleton",
+    href: "/mobile-tyre-fitting-middleton",
+    region: "Rochdale North",
+  },
+  { slug: "heywood", label: "Heywood", href: "/mobile-tyre-fitting-heywood", region: "Rochdale North" },
+  {
+    slug: "littleborough",
+    label: "Littleborough",
+    href: "/mobile-tyre-fitting-littleborough",
+    region: "Rochdale North",
+  },
+  { slug: "milnrow", label: "Milnrow", href: "/mobile-tyre-fitting-milnrow", region: "Rochdale North" },
+  { slug: "bury", label: "Bury", href: "/mobile-tyre-fitting-bury", region: "Bury Area" },
+  { slug: "prestwich", label: "Prestwich", href: "/mobile-tyre-fitting-prestwich", region: "Bury Area" },
+  { slug: "whitefield", label: "Whitefield", href: "/mobile-tyre-fitting-whitefield", region: "Bury Area" },
+  { slug: "radcliffe", label: "Radcliffe", href: "/mobile-tyre-fitting-radcliffe", region: "Bury Area" },
+  {
+    slug: "ramsbottom",
+    label: "Ramsbottom",
+    href: "/mobile-tyre-fitting-ramsbottom",
+    region: "Bury Area",
   },
 ] as const;
 
