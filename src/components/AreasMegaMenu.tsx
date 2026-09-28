@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { ChevronDown, MapPin, PhoneCall } from "lucide-react";
-import { locationAreasByRegion } from "@/lib/locations-data";
+import { locationAreasMain } from "@/lib/locations-data";
 
 type AreasMegaMenuProps = {
   currentSlug?: string;
@@ -62,39 +62,34 @@ export function AreasMegaMenuDesktop({
 
       {open && (
         <div className="absolute left-1/2 top-full -translate-x-1/2 pt-3 z-50">
-          <div className="w-[min(92vw,760px)] bg-primary-dark border border-white/10 rounded-2xl shadow-2xl p-6">
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
-              {locationAreasByRegion.map((group) => (
-                <div key={group.region}>
-                  <h3 className="text-secondary text-[11px] font-bold uppercase tracking-[0.1em] mb-3">
-                    {group.region}
-                  </h3>
-                  <ul className="space-y-1">
-                    {group.areas.map((area) => (
-                      <li key={area.slug}>
-                        <Link
-                          href={area.href}
-                          onClick={() => setOpen(false)}
-                          className={`flex items-center gap-2 py-1.5 px-2 -mx-2 rounded-lg text-sm transition-colors hover:bg-white/5 ${
-                            area.slug === currentSlug
-                              ? "text-white font-bold"
-                              : "text-gray-300 hover:text-white"
-                          }`}
-                        >
-                          <MapPin className="h-3.5 w-3.5 text-secondary-hover shrink-0" />
-                          {area.label}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
+          <div className="w-[min(92vw,640px)] bg-primary-dark border border-white/10 rounded-2xl shadow-2xl p-6">
+            <h3 className="text-secondary text-[11px] font-bold uppercase tracking-[0.1em] mb-4">
+              Main Locations
+            </h3>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-4 gap-y-1">
+              {locationAreasMain.map((area) => (
+                <Link
+                  key={area.slug}
+                  href={area.href}
+                  onClick={() => setOpen(false)}
+                  className={`flex items-center gap-2 py-1.5 px-2 -mx-2 rounded-lg text-sm transition-colors hover:bg-white/5 ${
+                    area.slug === currentSlug ? "text-white font-bold" : "text-gray-300 hover:text-white"
+                  }`}
+                >
+                  <MapPin className="h-3.5 w-3.5 text-secondary-hover shrink-0" />
+                  {area.label}
+                </Link>
               ))}
             </div>
 
             <div className="mt-6 pt-5 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <p className="text-sm text-gray-400">
-                Don&rsquo;t see your area? We cover all of Greater Manchester &amp; beyond.
-              </p>
+              <Link
+                href="/areas-we-cover"
+                onClick={() => setOpen(false)}
+                className="text-sm font-semibold text-secondary hover:text-secondary-hover transition-colors"
+              >
+                View all 100 areas we cover &rarr;
+              </Link>
               <a
                 href={telHref}
                 className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full bg-secondary text-primary font-bold text-sm shadow-md hover:bg-secondary-hover transition-colors shrink-0"
@@ -131,28 +126,26 @@ export function AreasMegaMenuMobile({
         <ChevronDown className={`h-4 w-4 transition-transform ${open ? "rotate-180" : ""}`} />
       </button>
       {open && (
-        <div className="pl-3 pb-2 space-y-4">
-          {locationAreasByRegion.map((group) => (
-            <div key={group.region}>
-              <div className="text-secondary text-[11px] font-bold uppercase tracking-[0.1em] py-1">
-                {group.region}
-              </div>
-              <div className="space-y-1">
-                {group.areas.map((area) => (
-                  <Link
-                    key={area.slug}
-                    href={area.href}
-                    className={`block py-1.5 text-sm font-medium ${
-                      area.slug === currentSlug ? "text-white font-bold" : "text-white/70"
-                    }`}
-                    onClick={onNavigate}
-                  >
-                    {area.label}
-                  </Link>
-                ))}
-              </div>
-            </div>
+        <div className="pl-3 pb-2 space-y-1">
+          {locationAreasMain.map((area) => (
+            <Link
+              key={area.slug}
+              href={area.href}
+              className={`block py-1.5 text-sm font-medium ${
+                area.slug === currentSlug ? "text-white font-bold" : "text-white/70"
+              }`}
+              onClick={onNavigate}
+            >
+              {area.label}
+            </Link>
           ))}
+          <Link
+            href="/areas-we-cover"
+            className="block py-1.5 text-sm font-semibold text-secondary"
+            onClick={onNavigate}
+          >
+            View all 100 areas we cover &rarr;
+          </Link>
         </div>
       )}
     </div>
