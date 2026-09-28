@@ -1,12 +1,22 @@
 import type { Metadata } from "next";
 import DidsburyPage from "@/components/locations/DidsburyPage";
+import LocationJsonLd from "@/components/LocationJsonLd";
+import { SITE_URL } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Mobile Tyre Fitting in Didsbury | Direct Tyre Solutions",
   description:
     "24/7 mobile tyre fitting in Didsbury, Manchester. Premium on-driveway and roadside tyre replacement within 20–35 minutes.",
+  alternates: {
+    canonical: `${SITE_URL}/mobile-tyre-fitting-didsbury`,
+  },
 };
 
 export default function Page() {
-  return <DidsburyPage />;
+  return (
+    <>
+      <LocationJsonLd areaLabel="Didsbury" slug="didsbury" />
+      <DidsburyPage />
+    </>
+  );
 }
