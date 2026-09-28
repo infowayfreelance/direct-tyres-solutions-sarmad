@@ -1,0 +1,12 @@
+import type { Metadata } from "next";
+import LeighPage from "@/components/locations/LeighPage";
+
+export const metadata: Metadata = {
+  title: "Mobile Tyre Fitting in Leigh | Direct Tyre Solutions",
+  description:
+    "24/7 mobile tyre fitting in Leigh. Rapid response home, workplace and roadside tyre replacement covering town centre and routes around the A580 and A579.",
+};
+
+export default function Page() {
+  return <LeighPage />;
+}
