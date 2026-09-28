@@ -1,12 +1,22 @@
 import type { Metadata } from "next";
 import StalybridgePage from "@/components/locations/StalybridgePage";
+import LocationJsonLd from "@/components/LocationJsonLd";
+import { SITE_URL } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Mobile Tyre Fitting in Stalybridge | Direct Tyre Solutions",
   description:
-    "24/7 mobile tyre fitting in Stalybridge. Rapid response home, workplace and roadside tyre replacement covering town centre and valley routes around the A635 and A6018.",
+    "24/7 mobile tyre fitting in Stalybridge. Rapid home, workplace and roadside tyre replacement covering valley routes around the A635 and A6018.",
+  alternates: {
+    canonical: `${SITE_URL}/mobile-tyre-fitting-stalybridge`,
+  },
 };
 
 export default function Page() {
-  return <StalybridgePage />;
+  return (
+    <>
+      <LocationJsonLd areaLabel="Stalybridge" slug="stalybridge" />
+      <StalybridgePage />
+    </>
+  );
 }

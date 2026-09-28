@@ -1,10 +1,27 @@
 import type { Metadata } from "next";
 import AreasWeCoverPage from "@/components/AreasWeCoverPage";
+import { SITE_URL } from "@/lib/seo";
+
+const title = "Areas We Cover | Direct Tyre Solutions";
+const description =
+  "Direct Tyre Solutions provides 24/7 mobile tyre fitting across 100 towns in Greater Manchester, Cheshire, Lancashire and West Yorkshire. Find your area.";
+const url = `${SITE_URL}/areas-we-cover`;
 
 export const metadata: Metadata = {
-  title: "Areas We Cover | Direct Tyre Solutions",
-  description:
-    "Direct Tyre Solutions provides 24/7 mobile tyre fitting across 100 towns and districts in Greater Manchester, Cheshire, Lancashire and West Yorkshire. Find your area.",
+  title,
+  description,
+  alternates: {
+    canonical: url,
+  },
+  openGraph: {
+    title,
+    description,
+    url,
+  },
+  twitter: {
+    title,
+    description,
+  },
 };
 
 export default function Page() {
