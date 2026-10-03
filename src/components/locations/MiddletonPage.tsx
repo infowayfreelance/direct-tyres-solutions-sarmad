@@ -23,9 +23,9 @@ export default function MiddletonPage() {
               </p>
       {/* Inline Action Strip */}
       <div className="flex flex-wrap items-center gap-4">
-      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl active:scale-95 group" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="text-primary group-hover:rotate-12 transition-transform h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center gap-3 bg-primary hover:bg-primary-light text-white px-7 py-4 rounded-full text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-all active:scale-95 shadow-md" href="https://wa.me/448009992470" rel="noopener" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -222,7 +222,7 @@ export default function MiddletonPage() {
       <p className="text-[13px] leading-[18px] text-gray-300 mt-3">
                         Dedicated local response vehicle patrol covering Alkrington, Langley, Rhodes, and Middleton Junction.
                       </p>
-      <a className="mt-5 inline-flex items-center gap-2 bg-secondary text-primary px-6 py-2.5 rounded-full text-[14px] leading-[18px] tracking-[0.02em] font-semibold font-bold shadow-md hover:scale-105 transition-transform" href="tel:08009992470">
+      <a className="mt-5 inline-flex items-center gap-2 bg-secondary text-primary px-6 py-2.5 rounded-full text-[14px] leading-[18px] tracking-[0.02em] font-semibold font-bold shadow-md hover:scale-105 transition-transform" href="tel:07955266077">
       <PhoneCall className="h-[14px] w-[14px]" fill="currentColor" strokeWidth={0} />
                         Dispatch Rapid Van
                       </a>
@@ -423,9 +423,9 @@ export default function MiddletonPage() {
               Don&apos;t damage your wheels or wait for an expensive recovery tow. Our local technician is on standby with emergency mobile fitting equipment right now.
             </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary hover:bg-secondary-hover text-primary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary hover:bg-secondary-hover text-primary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call Technician Now: 0800 999 2470</span>
+      <span>Call Technician Now: 07955 266 077</span>
       </a>
       </div>
       <div className="mt-6 flex items-center justify-center gap-2">

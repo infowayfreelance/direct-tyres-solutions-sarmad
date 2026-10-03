@@ -22,9 +22,9 @@ export default function StockportPage() {
                 </p>
       {/* Direct CTAs */}
       <div className="flex flex-wrap items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl hover:bg-secondary-hover transition-all duration-200 hover:scale-[1.02] active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl hover:bg-secondary-hover transition-all duration-200 hover:scale-[1.02] active:scale-95" href="tel:07955266077">
       <PhoneCall className="mr-2 h-5 w-5" />
-                    Call 0800 999 2470
+                    Call 07955 266 077
                   </a>
       <a className="inline-flex items-center justify-center px-7 py-4 rounded-full bg-primary text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary-light transition-all duration-200" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="mr-2 text-green-500 h-5 w-5" />
@@ -401,9 +401,9 @@ export default function StockportPage() {
               </p>
       </div>
       <div className="flex-shrink-0">
-      <a className="inline-flex items-center justify-center px-8 py-5 rounded-full bg-primary-dark text-secondary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-primary-dark transition-transform duration-200 hover:scale-105 shadow-2xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center px-8 py-5 rounded-full bg-primary-dark text-secondary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-primary-dark transition-transform duration-200 hover:scale-105 shadow-2xl" href="tel:07955266077">
       <PhoneCall className="mr-2 h-6 w-6" />
-                Call 0800 999 2470 Now
+                Call 07955 266 077 Now
               </a>
       </div>
       </div>

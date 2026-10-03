@@ -24,9 +24,9 @@ export default function CongletonPage() {
                 Rapid on-demand roadside, retail park, and residential driveway mobile tyre replacement across Congleton, Clayton Bypass (A34), and the A536 corridor. Fitted within 25–40 minutes.
               </p>
       <div className="flex flex-wrap items-center gap-4 pt-2">
-      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center gap-2 bg-primary/80 hover:bg-primary backdrop-blur-md text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-7 py-4 rounded-full transition-colors shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -164,7 +164,7 @@ export default function CongletonPage() {
       <p className="text-[13px] leading-[18px] text-gray-400 mb-6 flex-1">
                     Rapid response unit dispatched to hard-shoulders, bypass laybys, or unlit rural verges. Complete wheel change, digital balance, and safe site clearance.
                   </p>
-      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:07955266077">
       <span>Request Urgent Van</span>
       <Zap className="h-[14px] w-[14px]" />
       </a>
@@ -181,7 +181,7 @@ export default function CongletonPage() {
       <p className="text-[13px] leading-[18px] text-gray-400 mb-6 flex-1">
                     Compliant combination plug-patch repairs for minor tread punctures caused by screws or nails. Safe, economical, and saves you the price of a full tyre replacement.
                   </p>
-      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:07955266077">
       <span>Inspect Puncture</span>
       <Wrench className="h-[14px] w-[14px]" />
       </a>
@@ -198,7 +198,7 @@ export default function CongletonPage() {
       <p className="text-[13px] leading-[18px] text-gray-400 mb-6 flex-1">
                     Lost key, stripped splines, or over-torqued security nuts removed without scuffing or damaging delicate alloy rims using specialist reverse-thread tools.
                   </p>
-      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:07955266077">
       <span>Extract Stuck Key</span>
       <Unlock className="h-[14px] w-[14px]" />
       </a>
@@ -215,7 +215,7 @@ export default function CongletonPage() {
       <p className="text-[13px] leading-[18px] text-gray-400 mb-6 flex-1">
                     Zero disruption to your working day. We fit tyres on your driveway in Congleton or at your office car park while you work. Same-day &amp; pre-booked slots.
                   </p>
-      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white py-3 rounded-full transition-colors" href="tel:07955266077">
       <span>Book Home Fitting</span>
       <Home className="h-[14px] w-[14px]" />
       </a>
@@ -518,9 +518,9 @@ export default function CongletonPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full lg:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-primary-dark hover:bg-primary/60 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-9 py-5 rounded-full shadow-lg transition-transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-primary-dark hover:bg-primary/60 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-9 py-5 rounded-full shadow-lg transition-transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="text-secondary h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-primary/10 hover:bg-primary/20 text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-7 py-5 rounded-full transition-colors text-center" href="https://wa.me/448009992470">
       <MessageCircle className="h-5 w-5" />

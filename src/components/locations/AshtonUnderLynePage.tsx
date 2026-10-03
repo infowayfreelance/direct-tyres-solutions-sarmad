@@ -26,9 +26,9 @@ export default function AshtonUnderLynePage() {
               Rapid mobile tyre replacement across Snipe Retail Park, Ashton Moss, Lord Sheldon Way &amp; Lord Street. Van dispatched to your roadside breakdown, driveway, or workplace within minutes.
             </p>
       <div className="flex flex-wrap items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold shadow-xl transition-all duration-200 hover:scale-105 active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold shadow-xl transition-all duration-200 hover:scale-105 active:scale-95" href="tel:07955266077">
       <PhoneCall className="font-bold h-5 w-5" />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/90 hover:bg-primary-light text-white font-heading text-[20px] leading-[26px] font-bold backdrop-blur-md transition-all duration-200" href="https://wa.me/448009992470">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -362,9 +362,9 @@ export default function AshtonUnderLynePage() {
               </p>
       </div>
       <div className="flex flex-wrap items-center justify-center gap-4">
-      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary-dark text-white font-heading text-[20px] leading-[26px] font-bold shadow-xl transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary-dark text-white font-heading text-[20px] leading-[26px] font-bold shadow-xl transition-all" href="tel:07955266077">
       <PhoneCall className="text-secondary h-5 w-5" />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-white hover:bg-slate-100 text-primary font-heading text-[20px] leading-[26px] font-bold shadow-md transition-all" href="https://wa.me/448009992470">
       <MessageCircle className="text-accent h-5 w-5" />

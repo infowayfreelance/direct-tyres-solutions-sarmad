@@ -29,9 +29,9 @@ export default function SalfordPage() {
                 </p>
       {/* CTAs */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-space-md pt-space-xs">
-      <a className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-bold transition hover:bg-secondary-hover active:scale-95 shadow-lg shadow-primary-container/20" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-bold transition hover:bg-secondary-hover active:scale-95 shadow-lg shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="font-bold text-[20px] leading-[26px] font-bold h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/60 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider border border-white/10 hover:bg-primary hover:border-white/30 active:scale-95 transition" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-gray-400 h-5 w-5" />
@@ -537,9 +537,9 @@ export default function SalfordPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-space-sm shrink-0">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-black hover:bg-primary-dark active:scale-95 transition shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-black hover:bg-primary-dark active:scale-95 transition shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-[20px] leading-[26px] font-bold h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary-dark/10 text-primary-dark border border-primary-dark/30 text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider font-bold hover:bg-primary-dark/20 active:scale-95 transition" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-5 w-5" />

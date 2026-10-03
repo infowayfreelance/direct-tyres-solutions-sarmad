@@ -42,9 +42,9 @@ export default function BradfordPage() {
       </div>
       {/* Emergency Action Trigger Group */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 pt-2">
-      <a className="flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:brightness-110 active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:brightness-110 active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="font-bold text-primary h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <a className="flex items-center justify-center gap-3 px-7 py-4 rounded-full bg-primary/80 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary-light transition-all shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="text-secondary h-5 w-5" />
@@ -427,9 +427,9 @@ export default function BradfordPage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-5 w-full justify-center max-w-md">
-      <a className="w-full flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:brightness-110 active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="w-full flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:brightness-110 active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="font-bold text-primary h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       </div>
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 uppercase tracking-widest">

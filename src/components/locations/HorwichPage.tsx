@@ -25,9 +25,9 @@ export default function HorwichPage() {
               Rapid emergency roadside, home, and commercial driveway assistance across Bolton Road, Westhoughton Road, and the central M61 corridor.
             </p>
       {/* Primary Gold Pill Action Button */}
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl shadow-black/40 group" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl shadow-black/40 group" href="tel:07955266077">
       <PhoneCall className="h-[22px] w-[22px] group-hover:rotate-12 transition-transform" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       {/* Quick Micro Proof */}
       <div className="mt-6 flex items-center justify-center gap-6 text-gray-400 text-[14px] leading-[18px] tracking-[0.02em] font-semibold">
@@ -164,7 +164,7 @@ export default function HorwichPage() {
       <li className="flex items-start gap-4 p-4 rounded-xl bg-primary-dark/60 border border-white/10">
       <div className="w-7 h-7 rounded-full bg-secondary text-primary flex items-center justify-center font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold shrink-0 font-bold">1</div>
       <div className="text-[15px] leading-[24px] text-white">
-      <span className="font-semibold block text-white">Call 0800 999 2470 with your tyre size or car registration.</span>
+      <span className="font-semibold block text-white">Call 07955 266 077 with your tyre size or car registration.</span>
       <span className="text-gray-400 text-[13px] leading-[18px] mt-0.5 block">Our dispatch controllers look up exact speed and load ratings immediately.</span>
       </div>
       </li>
@@ -288,9 +288,9 @@ export default function HorwichPage() {
               Mobile tyre technician available now for immediate dispatch across Horwich and Greater Manchester.
             </p>
       {/* Prominent Gold Call Button */}
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl shadow-black/50 group" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl shadow-black/50 group" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px] group-hover:rotate-12 transition-transform" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       {/* 24/7 Availability Notice */}
       <span className="mt-4 text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 flex items-center gap-2">

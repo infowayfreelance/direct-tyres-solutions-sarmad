@@ -30,9 +30,9 @@ export default function WidnesPage() {
             </p>
       {/* Action Buttons */}
       <div className="flex flex-col sm:flex-row items-center gap-space-md w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-secondary text-primary font-heading hover:bg-secondary-hover transition-all duration-200 shadow-xl active:scale-95 group" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-secondary text-primary font-heading hover:bg-secondary-hover transition-all duration-200 shadow-xl active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="h-5 w-5 group-hover:rotate-12 transition-transform" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-primary/80 text-white hover:bg-primary transition-all duration-200 backdrop-blur-md shadow-sm" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-5 w-5 text-accent" />
@@ -324,9 +324,9 @@ export default function WidnesPage() {
       <p className="text-gray-400 mb-space-lg">
                     Immediate response for residential driveways, parking bays, and motorways across Widnes and Davyhulme.
                   </p>
-      <a className="w-full inline-flex items-center justify-center gap-space-sm px-6 py-3.5 rounded-full bg-secondary text-primary font-heading hover:bg-secondary-hover transition-all shadow-md active:scale-95 group" href="tel:08009992470">
+      <a className="w-full inline-flex items-center justify-center gap-space-sm px-6 py-3.5 rounded-full bg-secondary text-primary font-heading hover:bg-secondary-hover transition-all shadow-md active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="h-5 w-5 group-hover:rotate-12 transition-transform" />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <div className="mt-4 flex items-center gap-1.5 text-xs text-gray-400">
       <span className="inline-block w-2 h-2 rounded-full bg-accent-hover"></span>
@@ -430,9 +430,9 @@ export default function WidnesPage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-space-sm shrink-0">
-      <a className="inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-primary-dark text-white font-heading hover:bg-primary/60 transition-all duration-200 shadow-2xl active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-primary-dark text-white font-heading hover:bg-primary/60 transition-all duration-200 shadow-2xl active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-5 w-5 text-secondary" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       </div>
       </div>

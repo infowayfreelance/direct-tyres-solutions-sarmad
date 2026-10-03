@@ -46,9 +46,9 @@ export default function StalybridgePage() {
       </div>
       {/* Action Buttons */}
       <div className="mt-8 flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto justify-center">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-[0_0_25px_rgba(255,215,0,0.3)] hover:scale-[1.02] active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-[0_0_25px_rgba(255,215,0,0.3)] hover:scale-[1.02] active:scale-95" href="tel:07955266077">
       <PhoneCall className="font-bold h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>CALL 0800 999 2470</span>
+      <span>CALL 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 px-7 py-4 rounded-full bg-primary/80 hover:bg-primary text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold border border-white/10 transition-all hover:scale-[1.02] active:scale-95" href="https://wa.me/448009992470?text=I%20need%20emergency%20tyre%20assistance%20in%20Stalybridge" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-secondary h-5 w-5" />
@@ -198,7 +198,7 @@ export default function StalybridgePage() {
       <div className="flex flex-col justify-center">
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Initial Call &amp; Location Lock</h3>
       <p className="text-gray-400 text-xs mt-1">
-                    Dial 0800 999 2470. Give us your vehicle registration, tyre size (e.g. 225/45 R17), and exact location in Stalybridge or send a WhatsApp pinpoint.
+                    Dial 07955 266 077. Give us your vehicle registration, tyre size (e.g. 225/45 R17), and exact location in Stalybridge or send a WhatsApp pinpoint.
                   </p>
       </div>
       </div>
@@ -436,9 +436,9 @@ export default function StalybridgePage() {
               </p>
       </div>
       <div className="flex-shrink-0 flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl hover:scale-105 active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-xl hover:scale-105 active:scale-95" href="tel:07955266077">
       <PhoneCall className="text-secondary font-bold h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       </div>
       </div>

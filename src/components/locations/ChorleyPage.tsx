@@ -43,9 +43,9 @@ export default function ChorleyPage() {
       <div className="mt-8 pt-6">
       <div className="flex flex-wrap items-center gap-4">
       {/* Primary Action: Click-to-call #1 */}
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading transition-all duration-200 active:scale-95 shadow-xl shadow-primary-container/20" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading transition-all duration-200 active:scale-95 shadow-xl shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="font-bold h-[22px] w-[22px]" fill="currentColor" strokeWidth={0} />
-      <span>CALL DISPATCH: 0800 999 2470</span>
+      <span>CALL DISPATCH: 07955 266 077</span>
       </a>
       {/* Secondary WhatsApp Trigger */}
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/80 hover:bg-primary text-white transition-colors active:scale-95" href="https://wa.me/448009992470?text=Emergency%20Tyre%20Assistance%20Chorley" rel="noopener noreferrer" target="_blank">
@@ -506,9 +506,9 @@ export default function ChorleyPage() {
               </p>
       {/* Final Primary Call Action: Click-to-call #2 */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading tracking-wide transition-all duration-200 active:scale-95 shadow-2xl shadow-primary-container/30" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading tracking-wide transition-all duration-200 active:scale-95 shadow-2xl shadow-primary-container/30" href="tel:07955266077">
       <PhoneCall className="font-bold h-[24px] w-[24px]" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-gray-400 text-center sm:text-left">
                   Average local arrival: 25-45 minutes • Open 24/7/365

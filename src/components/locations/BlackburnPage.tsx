@@ -22,9 +22,9 @@ export default function BlackburnPage() {
                 </p>
       {/* CTAs */}
       <div className="flex flex-wrap items-center gap-4 w-full sm:w-auto">
-      <a className="inline-flex items-center justify-center gap-3 bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-8 py-4 rounded-full transition-transform active:scale-95 shadow-xl hover:opacity-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-8 py-4 rounded-full transition-transform active:scale-95 shadow-xl hover:opacity-95" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" />
-                    Call 0800 999 2470
+                    Call 07955 266 077
                   </a>
       <a className="inline-flex items-center justify-center gap-2 bg-primary/80 hover:bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold px-7 py-4 rounded-full transition-colors backdrop-blur-md" href="https://wa.me/448009992470">
       <MessageCircle className="h-5 w-5 text-secondary" />
@@ -402,9 +402,9 @@ export default function BlackburnPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full lg:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-10 py-5 rounded-full shadow-2xl transition-transform active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-10 py-5 rounded-full shadow-2xl transition-transform active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-6 w-6 text-secondary" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       </div>
       </div>

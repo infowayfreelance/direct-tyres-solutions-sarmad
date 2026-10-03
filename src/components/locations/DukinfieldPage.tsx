@@ -26,9 +26,9 @@ export default function DukinfieldPage() {
               </p>
       {/* CTA Action Cluster */}
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover hover:scale-105 active:scale-95 transition-all duration-200" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover hover:scale-105 active:scale-95 transition-all duration-200" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold shadow-md hover:bg-primary-light active:scale-95 transition-all duration-200" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-[22px] w-[22px]" />
@@ -102,9 +102,9 @@ export default function DukinfieldPage() {
       </div>
       {/* Quick Call Direct Rail Trigger */}
       <div className="mt-6 pt-2">
-      <a className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary-hover transition-transform active:scale-95" href="tel:08009992470">
+      <a className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary-hover transition-transform active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-                      0800 999 2470
+                      07955 266 077
                     </a>
       </div>
       </div>
@@ -311,7 +311,7 @@ export default function DukinfieldPage() {
       <div className="bg-primary/60 p-4 rounded-xl grow">
       <h3 className="font-heading text-[20px] leading-[26px] font-bold text-white">Initiate Dispatch Call or WhatsApp</h3>
       <p className="text-[13px] leading-[18px] text-gray-300 mt-1">
-                          Ring 0800 999 2470 or message our emergency desk. Give us your vehicle registration, tyre size, and current Dukinfield location.
+                          Ring 07955 266 077 or message our emergency desk. Give us your vehicle registration, tyre size, and current Dukinfield location.
                         </p>
       </div>
       </div>
@@ -456,9 +456,9 @@ export default function DukinfieldPage() {
       </div>
       {/* Right side: Large Pill Gold Button & Actions */}
       <div className="flex flex-col sm:flex-row lg:flex-col items-center gap-4 w-full sm:w-auto shrink-0">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[30px] leading-[38px] font-bold uppercase tracking-wider shadow-2xl hover:bg-secondary-hover hover:scale-105 active:scale-95 transition-all duration-200" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[30px] leading-[38px] font-bold uppercase tracking-wider shadow-2xl hover:bg-secondary-hover hover:scale-105 active:scale-95 transition-all duration-200" href="tel:07955266077">
       <PhoneCall className="h-[30px] w-[30px]" />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <span className="text-gray-300 text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-center">
                 Open 24 Hours • 7 Days a Week • No Depot Visit Needed

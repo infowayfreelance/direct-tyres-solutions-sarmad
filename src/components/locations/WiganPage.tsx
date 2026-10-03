@@ -24,9 +24,9 @@ export default function WiganPage() {
                 Immediate roadside, retail park, and residential emergency tyre fitting across Wigan, Robin Park Retail Park, M6 Junctions 25–27, and the A49 corridor. Vans equipped with laser balancing and high-capacity tyre changers ready for immediate deployment.
               </p>
       <div className="flex flex-wrap items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-secondary-hover transition-all shadow-lg active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-secondary-hover transition-all shadow-lg active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary transition-all shadow-md active:scale-95" href="https://wa.me/448009992470">
       <MessageCircle className="text-gray-400 h-[20px] w-[20px]" />
@@ -423,9 +423,9 @@ export default function WiganPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary-dark transition-all shadow-xl active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary-dark transition-all shadow-xl active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-white/20 hover:bg-white/30 text-primary-dark text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-all border border-primary-dark/20 active:scale-95" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px]" />

@@ -20,9 +20,9 @@ export default function MacclesfieldPage() {
               Stranded on the Silk Road (A523), stuck in a town centre retail park, or flat on your residential driveway? Our dedicated Cheshire response units bring the tyre shop straight to your location.
             </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-md">
-      <a className="w-full sm:w-auto flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider font-bold transition-all duration-150 hover:bg-secondary hover:scale-105 active:scale-95 shadow-xl shadow-primary-container/10" href="tel:08009992470">
+      <a className="w-full sm:w-auto flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider font-bold transition-all duration-150 hover:bg-secondary hover:scale-105 active:scale-95 shadow-xl shadow-primary-container/10" href="tel:07955266077">
       <PhoneCall className="text-primary h-5 w-5" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider font-semibold transition-all duration-150 hover:bg-primary backdrop-blur-md" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-white h-5 w-5" />
@@ -357,9 +357,9 @@ export default function MacclesfieldPage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 shrink-0">
-      <a className="flex items-center gap-3 px-8 py-5 rounded-full bg-primary-dark text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase font-bold transition-all duration-150 hover:bg-primary-dark hover:scale-105 active:scale-95 shadow-2xl" href="tel:08009992470">
+      <a className="flex items-center gap-3 px-8 py-5 rounded-full bg-primary-dark text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase font-bold transition-all duration-150 hover:bg-primary-dark hover:scale-105 active:scale-95 shadow-2xl" href="tel:07955266077">
       <PhoneCall className="text-secondary h-5 w-5" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       </div>
       </div>

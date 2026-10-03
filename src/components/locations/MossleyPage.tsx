@@ -22,9 +22,9 @@ export default function MossleyPage() {
               Stranded on steep Pennine inclines or isolated routes? We deliver roadside tyre replacement across the <strong className="text-white font-semibold">A670 Manchester Road</strong>, high-altitude moorland stretches of the <strong className="text-white font-semibold">A635 Isle of Skye approach</strong>, and throughout rural Mossley. Avoid high-risk flatbed recoveries on narrow hillside passes.
             </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 shadow-xl flex items-center justify-center gap-3" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 shadow-xl flex items-center justify-center gap-3" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto px-8 py-4 rounded-full bg-green-500 hover:bg-green-500 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 shadow-xl flex items-center justify-center gap-3" href="https://wa.me/448009992470?text=I%20need%20emergency%20tyre%20assistance%20in%20Mossley" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-6 w-6" />
@@ -418,9 +418,9 @@ export default function MossleyPage() {
                 Do not risk rim damage or wait hours for a towing truck. Call our dedicated Mossley mobile dispatch unit for immediate roadside assistance.
               </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a className="w-full sm:w-auto px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold transition-all duration-200 transform active:scale-95 shadow-2xl flex items-center justify-center gap-3 font-bold" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold transition-all duration-200 transform active:scale-95 shadow-2xl flex items-center justify-center gap-3 font-bold" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full sm:w-auto px-8 py-5 rounded-full bg-primary hover:bg-primary-light text-white border border-white/20 font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 flex items-center justify-center gap-3" href="https://wa.me/448009992470?text=I%20need%20emergency%20tyre%20fitting%20in%20Mossley" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-5 w-5" />

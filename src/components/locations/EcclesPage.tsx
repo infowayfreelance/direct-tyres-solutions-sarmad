@@ -23,9 +23,9 @@ export default function EcclesPage() {
             </p>
       {/* CTA Cluster */}
       <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary/80 text-white backdrop-blur-md font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary transition-all shadow-md" href="https://wa.me/448009992470?text=I%20need%20urgent%20mobile%20tyre%20assistance%20in%20Eccles">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -127,7 +127,7 @@ export default function EcclesPage() {
       </div>
       <div className="mt-6 flex items-center justify-between">
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary">Response within 25–40 mins</span>
-      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:08009992470">
+      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
       </a>
       </div>
@@ -148,7 +148,7 @@ export default function EcclesPage() {
       </div>
       <div className="mt-6 flex items-center justify-between">
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary">Certified Tread Fix</span>
-      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:08009992470">
+      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
       </a>
       </div>
@@ -169,7 +169,7 @@ export default function EcclesPage() {
       </div>
       <div className="mt-6 flex items-center justify-between">
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary">100% Removal Rate</span>
-      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:08009992470">
+      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
       </a>
       </div>
@@ -190,7 +190,7 @@ export default function EcclesPage() {
       </div>
       <div className="mt-6 flex items-center justify-between">
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary">Cars, 4x4s, Vans</span>
-      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:08009992470">
+      <a className="p-2 rounded-full bg-primary/80 text-white hover:bg-secondary hover:text-primary transition-colors" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
       </a>
       </div>
@@ -250,7 +250,7 @@ export default function EcclesPage() {
       </div>
       <div className="mt-8 pt-6 bg-primary/30 p-4 rounded-lg flex items-center justify-between">
       <span className="text-gray-400">Stuck near an Eccles interchange?</span>
-      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:08009992470">
+      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:07955266077">
                       Call Emergency Line →
                     </a>
       </div>
@@ -448,9 +448,9 @@ export default function EcclesPage() {
       </div>
       </div>
       <div className="flex flex-col sm:flex-row lg:flex-col gap-4 w-full sm:w-auto flex-shrink-0 items-center">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">Toll-Free • Instant Technician Dispatch</span>
       </div>

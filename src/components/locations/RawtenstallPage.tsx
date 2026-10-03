@@ -22,9 +22,9 @@ export default function RawtenstallPage() {
             </p>
       {/* Action Buttons */}
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary-dark font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-lg" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary-dark font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-lg" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-primary/80 backdrop-blur-md text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary-light transition-colors shadow-sm" href="https://wa.me/448009992470">
       <MessageCircle className="h-5 w-5 text-secondary" />
@@ -437,9 +437,9 @@ export default function RawtenstallPage() {
       <p className="text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-gray-400 mb-8 max-w-xl">
               Speak directly with our local Rossendale dispatch controller. We will confirm tyre availability and provide an immediate fixed arrival time.
             </p>
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary-dark font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary-dark font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" />
-              Call 0800 999 2470 Now
+              Call 07955 266 077 Now
             </a>
       <div className="mt-6 flex items-center gap-2 text-gray-400 text-[14px] leading-[18px] tracking-[0.02em] font-semibold">
       <span className="w-2.5 h-2.5 rounded-full bg-secondary animate-ping"></span>

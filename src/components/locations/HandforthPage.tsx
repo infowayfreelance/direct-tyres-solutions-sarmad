@@ -21,9 +21,9 @@ export default function HandforthPage() {
                 Don&apos;t let a morning flat tyre ruin the school run or your commute. Our fully equipped mobile workshops bring professional tyre fitting straight to your driveway in Handforth and Wilmslow borders.
               </p>
       <div className="flex flex-wrap items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-secondary-hover transition-all duration-200 shadow-md active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-secondary-hover transition-all duration-200 shadow-md active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary transition-all duration-200 shadow-sm active:scale-95" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px] text-accent" />
@@ -257,7 +257,7 @@ export default function HandforthPage() {
                   </div>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Call Us With Your Reg &amp; Postcode</h3>
       <p className="text-[15px] leading-[24px] text-white/75">
-                    Dial 0800 999 2470. Give our friendly team your vehicle registration and Handforth location. We check exact OEM tyre sizes instantly.
+                    Dial 07955 266 077. Give our friendly team your vehicle registration and Handforth location. We check exact OEM tyre sizes instantly.
                   </p>
       </div>
       <div className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-secondary uppercase tracking-wider">Fast 2-minute booking</div>
@@ -382,9 +382,9 @@ export default function HandforthPage() {
                   No towing fees, no waiting rooms. Save your morning and get back on the road in minutes. Call our local team now.
                 </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-9 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-secondary-hover transition-all duration-200 shadow-md active:scale-95" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-9 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-secondary-hover transition-all duration-200 shadow-md active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary transition-all duration-200 active:scale-95" href="https://wa.me/448009992470">
       <span>Message on WhatsApp</span>

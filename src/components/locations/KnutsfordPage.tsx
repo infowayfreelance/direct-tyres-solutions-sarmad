@@ -24,9 +24,9 @@ export default function KnutsfordPage() {
             </p>
       {/* CTA Cluster */}
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary transition-all duration-200 shadow-xl active:scale-95 group" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary transition-all duration-200 shadow-xl active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="text-primary group-hover:animate-bounce h-5 w-5" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary transition-all duration-200 shadow-lg active:scale-95 backdrop-blur-md" href="https://wa.me/448009992470?text=I%20need%20urgent%20mobile%20tyre%20assistance%20in%20Knutsford" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-secondary h-5 w-5" />
@@ -164,7 +164,7 @@ export default function KnutsfordPage() {
       </div>
       <div className="flex items-center justify-between pt-4 border-t border-white/10">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">Includes laser wheel balancing</span>
-      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:08009992470">
+      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[14px] w-[14px]" />
       </a>
       </div>
@@ -186,7 +186,7 @@ export default function KnutsfordPage() {
       </div>
       <div className="flex items-center justify-between pt-4 border-t border-white/10">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">Tread depth &amp; safety inspection</span>
-      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:08009992470">
+      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[14px] w-[14px]" />
       </a>
       </div>
@@ -208,7 +208,7 @@ export default function KnutsfordPage() {
       </div>
       <div className="flex items-center justify-between pt-4 border-t border-white/10">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">MacGard, McGard, BMW &amp; OEM fitments</span>
-      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:08009992470">
+      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[14px] w-[14px]" />
       </a>
       </div>
@@ -230,7 +230,7 @@ export default function KnutsfordPage() {
       </div>
       <div className="flex items-center justify-between pt-4 border-t border-white/10">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">Zero travel fee surprises</span>
-      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:08009992470">
+      <a className="text-secondary text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-1 hover:underline" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[14px] w-[14px]" />
       </a>
       </div>
@@ -436,9 +436,9 @@ export default function KnutsfordPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary transition-all duration-200 shadow-xl active:scale-95 group" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary transition-all duration-200 shadow-xl active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="text-primary group-hover:animate-bounce h-5 w-5" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary transition-all duration-200 shadow-lg active:scale-95" href="https://wa.me/448009992470?text=I%20need%20urgent%20mobile%20tyre%20assistance%20in%20Knutsford" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-secondary h-5 w-5" />

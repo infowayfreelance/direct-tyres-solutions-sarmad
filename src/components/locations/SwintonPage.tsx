@@ -22,9 +22,9 @@ export default function SwintonPage() {
                 Direct driveway, kerbside, and roadside tyre replacement across Swinton, Pendlebury, the A580 East Lancs corridor, and A6. Zero garage queues.
               </p>
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold font-extrabold tracking-wide shadow-lg shadow-[#ffd700]/10 transition-all transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold font-extrabold tracking-wide shadow-lg shadow-[#ffd700]/10 transition-all transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <div className="flex items-center gap-3 px-4 py-3 rounded-full bg-white/5 backdrop-blur-md">
       <Clock className="text-secondary h-5 w-5" />
@@ -117,7 +117,7 @@ export default function SwintonPage() {
                   </p>
       </div>
       <div className="shrink-0 self-end md:self-center">
-      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:07955266077">
       <span>Book Priority</span>
       <ArrowRight className="h-[14px] w-[14px]" />
       </a>
@@ -140,7 +140,7 @@ export default function SwintonPage() {
                   </p>
       </div>
       <div className="shrink-0 self-end md:self-center">
-      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:07955266077">
       <span>Check Repair</span>
       <ArrowRight className="h-[14px] w-[14px]" />
       </a>
@@ -163,7 +163,7 @@ export default function SwintonPage() {
                   </p>
       </div>
       <div className="shrink-0 self-end md:self-center">
-      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:07955266077">
       <span>Extract Nut</span>
       <ArrowRight className="h-[14px] w-[14px]" />
       </a>
@@ -186,7 +186,7 @@ export default function SwintonPage() {
                   </p>
       </div>
       <div className="shrink-0 self-end md:self-center">
-      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center gap-2 transition-all" href="tel:07955266077">
       <span>Book Home</span>
       <ArrowRight className="h-[14px] w-[14px]" />
       </a>
@@ -296,7 +296,7 @@ export default function SwintonPage() {
       <div className="p-5 rounded-2xl bg-primary/80 backdrop-blur-md flex flex-col items-start space-y-3">
       <span className="w-9 h-9 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-black flex items-center justify-center">1</span>
       <h4 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-bold text-white">Call Us</h4>
-      <p className="text-[13px] leading-[18px] text-gray-300">Dial 0800 999 2470 with your location and tyre size.</p>
+      <p className="text-[13px] leading-[18px] text-gray-300">Dial 07955 266 077 with your location and tyre size.</p>
       </div>
       <div className="p-5 rounded-2xl bg-primary/80 backdrop-blur-md flex flex-col items-start space-y-3">
       <span className="w-9 h-9 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-black flex items-center justify-center">2</span>
@@ -350,7 +350,7 @@ export default function SwintonPage() {
       </div>
       </div>
       <div className="pt-2">
-      <a className="w-full block py-3 text-center rounded-full bg-secondary hover:bg-secondary-hover text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold font-extrabold uppercase transition-all" href="tel:08009992470">
+      <a className="w-full block py-3 text-center rounded-full bg-secondary hover:bg-secondary-hover text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold font-extrabold uppercase transition-all" href="tel:07955266077">
                   Get Similar Fast Help
                 </a>
       </div>
@@ -398,7 +398,7 @@ export default function SwintonPage() {
       <ChevronDown className="transition duration-300 group-open:-rotate-180 text-secondary h-5 w-5" />
       </summary>
       <p className="mt-4 text-[15px] leading-[24px] text-gray-300">
-                  No problem. Give our dispatch team a call on 0800 999 2470 with your vehicle registration number. We can check manufacturer specifications and carry options ranging from budget alternatives to mid-range and premium brands like Michelin, Pirelli, Goodyear, and Continental.
+                  No problem. Give our dispatch team a call on 07955 266 077 with your vehicle registration number. We can check manufacturer specifications and carry options ranging from budget alternatives to mid-range and premium brands like Michelin, Pirelli, Goodyear, and Continental.
                 </p>
       </details>
       {/* Item 4 */}
@@ -460,9 +460,9 @@ export default function SwintonPage() {
               Speak directly to our emergency controllers now. We will dispatch the closest mobile tyre unit straight to your roadside location or home address.
             </p>
       <div className="pt-2 flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold font-black tracking-wide shadow-xl shadow-[#ffd700]/20 transition-all transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold font-black tracking-wide shadow-xl shadow-[#ffd700]/20 transition-all transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       </div>
       <div className="flex items-center gap-6 text-gray-400 text-[13px] leading-[18px] pt-2">

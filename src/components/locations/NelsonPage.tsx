@@ -44,9 +44,9 @@ export default function NelsonPage() {
       </div>
       {/* Primary Actions: Phone & WhatsApp */}
       <div className="flex flex-wrap items-center gap-space-sm pt-space-sm w-full sm:w-auto">
-      <a className="inline-flex items-center justify-center gap-space-xs bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full shadow-lg transition-transform active:scale-95 group" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-space-xs bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full shadow-lg transition-transform active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="text-primary h-6 w-6 group-hover:rotate-12 transition-transform" />
-      <span>CALL 0800 999 2470</span>
+      <span>CALL 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-space-xs bg-primary/80 hover:bg-primary-light text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold px-6 py-4 rounded-full shadow-sm transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -454,9 +454,9 @@ export default function NelsonPage() {
               Don’t wait hours in cold weather for standard recovery. Speak directly to an on-duty technician and have a mobile tyre workshop heading to your exact Nelson location right now.
             </p>
       <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-space-sm">
-      <a className="flex-1 inline-flex items-center justify-center gap-space-xs bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full shadow-xl transition-transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="flex-1 inline-flex items-center justify-center gap-space-xs bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full shadow-xl transition-transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="text-primary h-6 w-6" />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-primary-light text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold px-6 py-4 rounded-full transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />

@@ -23,9 +23,9 @@ export default function MilnrowPage() {
                 </p>
       </div>
       <div className="pt-6 flex flex-col sm:flex-row gap-3 z-10">
-      <a className="flex-1 inline-flex items-center justify-center gap-2 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold py-3 px-5 transition duration-200 transform active:scale-95 shadow-md" href="tel:08009992470">
+      <a className="flex-1 inline-flex items-center justify-center gap-2 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold py-3 px-5 transition duration-200 transform active:scale-95 shadow-md" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-2 rounded-full bg-primary hover:bg-primary-light text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold py-3 px-5 transition duration-200" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px] text-accent" />
@@ -512,9 +512,9 @@ export default function MilnrowPage() {
                 Call direct to lock in our nearest rapid mobile tyre vehicle. We confirm your sizing, provide an accurate arrival estimate, and fix your tyre roadside or at home.
               </p>
       <div className="pt-6 flex flex-col sm:flex-row gap-4">
-      <a className="inline-flex items-center justify-center gap-3 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold py-4 px-8 transition duration-200 transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold py-4 px-8 transition duration-200 transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-                  Call Milnrow 24/7 Fitter: 0800 999 2470
+                  Call Milnrow 24/7 Fitter: 07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-2 rounded-full bg-primary-dark hover:bg-primary text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold py-4 px-8 transition duration-200" href="https://wa.me/448009992470">
       <MessageCircle className="h-[22px] w-[22px] text-accent" />
