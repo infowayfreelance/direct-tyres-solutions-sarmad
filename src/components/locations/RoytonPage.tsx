@@ -40,7 +40,7 @@ export default function RoytonPage() {
             <h1 className="font-heading uppercase text-[36px] leading-[44px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-extrabold mb-4">
               24/7 Mobile Tyre Fitting in <span className="text-secondary-hover">Royton</span>
             </h1>
-            <p className="text-lg text-white/10 max-w-2xl mb-6 leading-relaxed">
+            <p className="text-lg text-white/70 max-w-2xl mb-6 leading-relaxed">
               Workshop-grade mobile tyre changes direct to your location in Royton in 20–35 minutes. Professional roadside recovery, doorstep fitting, and puncture solutions on-demand.
             </p>
             <div className="flex items-center gap-3 px-4 py-2 rounded-full bg-white/5 mb-8">
@@ -50,7 +50,7 @@ export default function RoytonPage() {
                 ))}
               </div>
               <span className="text-sm font-bold text-white">4.9 / 5.0</span>
-              <span className="text-sm text-white/10 hidden sm:inline">• 180+ Local Royton Callouts</span>
+              <span className="text-sm text-white/70 hidden sm:inline">• 180+ Local Royton Callouts</span>
             </div>
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 w-full sm:w-auto">
               <a
@@ -139,7 +139,7 @@ export default function RoytonPage() {
                 <h3 className="font-heading text-[30px] leading-[38px] font-bold mt-1">
                   24/7 Emergency Mobile Tyre Fitting in Royton
                 </h3>
-                <p className="text-base text-white/10 mt-2 max-w-xl">
+                <p className="text-base text-white/70 mt-2 max-w-xl">
                   Rapid roadside and doorstep dispatch carrying premium brands (Michelin, Continental, Pirelli, Goodyear) and reliable budget options. Instant bead-breaking, digital rim alignment, and pneumatic inflation anywhere from Broadway (A663) to back-residential driveways.
                 </p>
               </div>
@@ -257,7 +257,7 @@ export default function RoytonPage() {
               <h2 className="font-heading text-[30px] leading-[38px] tracking-[-0.015em] font-bold text-white mt-1">
                 Fast Response Across Royton &amp; Surrounding Environs
               </h2>
-              <p className="text-sm text-white/10 mt-1">
+              <p className="text-sm text-white/70 mt-1">
                 Our vans remain continuously on rotation around North Oldham and South Rochdale junctions.
               </p>
             </div>
@@ -333,7 +333,7 @@ export default function RoytonPage() {
               <h3 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-bold text-white">
                 Clear, All-Inclusive Quotes for Royton Drivers
               </h3>
-              <p className="text-base text-white/10 mt-2">
+              <p className="text-base text-white/70 mt-2">
                 Our pricing includes mobile callout, on-site fitting, precision balancing, new rubber valves, and eco-friendly casing disposal. No surprise roadside fee escalations.
               </p>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 mt-4 text-white">
@@ -467,7 +467,7 @@ export default function RoytonPage() {
           <h2 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-bold text-white max-w-3xl mx-auto">
             Stuck with a flat tyre in Royton? We&rsquo;re on our way.
           </h2>
-          <p className="text-lg text-white/10 max-w-2xl mx-auto mt-2 leading-relaxed">
+          <p className="text-lg text-white/70 max-w-2xl mx-auto mt-2 leading-relaxed">
             Don&rsquo;t let a flat tyre strand you on Rochdale Road or trap your car on your driveway. Call our rapid roadside squad now for immediate dispatch.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -485,7 +485,7 @@ export default function RoytonPage() {
               Request Online Callback
             </Link>
           </div>
-          <div className="mt-6 flex flex-wrap items-center justify-center gap-4 text-white/10 text-sm">
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-4 text-white/70 text-sm">
             <span>• No membership required</span>
             <span>• Fixed pricing upfront</span>
             <span>• All major credit cards taken</span>

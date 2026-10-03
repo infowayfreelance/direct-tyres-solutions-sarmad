@@ -8,11 +8,12 @@ export const siteConfig3 = {
 
 export const navLinks3 = [
   { label: "Home", href: "/" },
-  { label: "Services", href: "/#services" },
+  { label: "About Us", href: "/about-us" },
+  { label: "Services", href: "/services" },
   { label: "Why Choose Us", href: "/#trust" },
-  { label: "Areas We Cover", href: "/#" },
+  { label: "Areas We Cover", href: "/areas-we-cover" },
   { label: "Reviews", href: "/#reviews" },
-  { label: "Contact", href: "/#contact" },
+  { label: "Contact", href: "/contact" },
 ] as const;
 
 export const heroChecklist3 = [
@@ -97,9 +98,12 @@ export const testimonials3 = [
 export const footerLinks3 = {
   quickLinks: [
     { label: "Home", href: "/" },
-    { label: "Services", href: "/#services" },
+    { label: "About Us", href: "/about-us" },
+    { label: "Services", href: "/services" },
     { label: "Why Choose Us", href: "/#trust" },
+    { label: "Areas We Cover", href: "/areas-we-cover" },
     { label: "Reviews", href: "/#reviews" },
+    { label: "Contact", href: "/contact" },
   ],
   services: services3.map((s) => s.title),
 };

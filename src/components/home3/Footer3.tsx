@@ -75,18 +75,10 @@ export default function Footer3() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 md:px-8 mt-10 pt-8 border-t border-white/10 text-center flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div className="max-w-7xl mx-auto px-4 md:px-8 mt-10 pt-8 border-t border-white/10 text-center">
         <p className="text-sm font-medium">
           © {new Date().getFullYear()} {siteConfig3.name}. All rights reserved.
         </p>
-        <div className="flex gap-4 text-xs items-center">
-          <a className="hover:text-white transition-colors" href="#">
-            Privacy Policy
-          </a>
-          <a className="hover:text-white transition-colors" href="#">
-            Terms of Service
-          </a>
-        </div>
       </div>
     </footer>
   );

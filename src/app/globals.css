@@ -18,6 +18,16 @@
   --font-heading: var(--font-heading), sans-serif;
   --font-mono: var(--font-mono), monospace;
 
+  --spacing-space-xs: 0.5rem;
+  --spacing-space-sm: 0.75rem;
+  --spacing-space-md: 1.5rem;
+  --spacing-space-lg: 2rem;
+  --spacing-space-xl: 3rem;
+  --spacing-margin-mobile: 1rem;
+  --spacing-margin: 2rem;
+  --spacing-gutter-mobile: 0.75rem;
+  --spacing-gutter: 1.5rem;
+
   --animate-marquee: marquee 40s linear infinite;
   --animate-pulse-amber: pulse-amber 2s infinite;
   --animate-glow-pulse: glow-pulse 2s infinite alternate;

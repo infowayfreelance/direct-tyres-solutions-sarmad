@@ -26,7 +26,7 @@ export default function RochdalePage() {
             </span>
             <span className="text-[11px] uppercase tracking-widest text-secondary-hover">Live Fleet Status: 3 Rapid Vans Patrolling Rochdale, Milnrow &amp; M62 J20-21</span>
           </div>
-          <div className="hidden md:flex items-center gap-4 text-xs text-white/10">
+          <div className="hidden md:flex items-center gap-4 text-xs text-white/70">
             <span>Average Arrival Today: <strong className="text-white">22 Mins</strong></span>
             <span>&bull; No Tow Truck Needed</span>
           </div>
@@ -242,7 +242,7 @@ export default function RochdalePage() {
             <div className="max-w-2xl">
               <span className="text-secondary-hover text-[11px] font-bold uppercase tracking-widest">Rapid Coverage Zone</span>
               <h2 className="font-heading text-[30px] leading-[38px] text-white font-bold mt-1">Rochdale Borough &amp; Surrounding Hubs</h2>
-              <p className="text-base text-white/10 mt-2 leading-relaxed">
+              <p className="text-base text-white/70 mt-2 leading-relaxed">
                 Our regional depot network stations multiple emergency vans around key junctions to maintain sub-35-minute arrival across the wider metropolitan district.
               </p>
             </div>
@@ -256,7 +256,7 @@ export default function RochdalePage() {
                   <span className="text-[11px] uppercase text-secondary-hover">Fleet Lead On Shift</span>
                 </div>
                 <p className="text-[18px] leading-[24px] text-white font-bold">Sector OL11-OL16</p>
-                <p className="text-sm text-white/10">Immediate dispatch standby</p>
+                <p className="text-sm text-white/70">Immediate dispatch standby</p>
               </div>
             </div>
           </div>
@@ -279,7 +279,7 @@ export default function RochdalePage() {
               <div className="lg:col-span-7 flex flex-col gap-3">
                 <span className="text-secondary text-[11px] font-bold uppercase tracking-widest">Clear Upfront Pricing</span>
                 <h2 className="font-heading text-[30px] leading-[38px] text-white font-bold">Get an instant estimate for tyre fitting in Rochdale</h2>
-                <p className="text-base text-white/10 max-w-xl">
+                <p className="text-base text-white/70 max-w-xl">
                   No hidden fees. Every quote includes roadside/driveway callout, new valve replacement, computerized balancing, and eco-friendly tyre disposal.
                 </p>
               </div>
@@ -305,7 +305,7 @@ export default function RochdalePage() {
                     <span>Lookup Tyre Size &amp; Quote</span>
                   </a>
                 </div>
-                <p className="text-center text-xs text-white/10">
+                <p className="text-center text-xs text-white/70">
                   Or call <a className="text-secondary font-bold underline" href="tel:07955266077">07955 266 077</a> for 60-second dispatch assistance
                 </p>
               </div>
@@ -399,7 +399,7 @@ export default function RochdalePage() {
           <h2 className="font-heading text-[30px] leading-[38px] sm:text-[40px] sm:leading-[48px] text-white tracking-tight max-w-4xl font-extrabold">
             Stuck with a tyre in Rochdale? We&rsquo;re on our way.
           </h2>
-          <p className="text-lg text-white/10 max-w-2xl">
+          <p className="text-lg text-white/70 max-w-2xl">
             Do not wait hours for a recovery lorry or crawl on a dangerous rim. Direct Tyre Solutions dispatches right to your coordinates with the correct replacement.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4 pt-2">

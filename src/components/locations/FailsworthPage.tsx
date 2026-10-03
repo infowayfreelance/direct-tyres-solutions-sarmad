@@ -99,7 +99,7 @@ export default function FailsworthPage() {
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-secondary" />
               </span>
               <span className="text-[11px] font-bold uppercase tracking-[0.06em] text-secondary">Live Dispatch Active</span>
-              <span className="text-sm text-white/10 hidden sm:inline">• Failsworth &amp; A62 Corridor</span>
+              <span className="text-sm text-white/70 hidden sm:inline">• Failsworth &amp; A62 Corridor</span>
             </div>
           </div>
         </div>
@@ -114,12 +114,12 @@ export default function FailsworthPage() {
                     ))}
                   </div>
                   <span className="text-sm font-bold text-white">4.9 / 5.0</span>
-                  <span className="text-sm text-white/10">Verified Google Rating across Oldham &amp; Manchester</span>
+                  <span className="text-sm text-white/70">Verified Google Rating across Oldham &amp; Manchester</span>
                 </div>
                 <h1 className="font-heading uppercase text-[40px] leading-[48px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] text-white">
                   24/7 Mobile Tyre Fitting in Failsworth
                 </h1>
-                <p className="text-lg text-white/10 max-w-2xl leading-relaxed">
+                <p className="text-lg text-white/70 max-w-2xl leading-relaxed">
                   Professional mobile tyre replacement fitted on your drive or roadside in Failsworth within 20–30 minutes. Rapid response technicians deployed with full workshop vans.
                 </p>
                 <div className="flex flex-wrap items-center gap-4 pt-1">
@@ -144,18 +144,18 @@ export default function FailsworthPage() {
                   <span className="text-xs text-secondary">J22 M60 Active</span>
                 </div>
                 <div className="space-y-1">
-                  <div className="text-[11px] font-bold text-white/10 uppercase tracking-[0.06em]">Standard Arrival Window</div>
+                  <div className="text-[11px] font-bold text-white/70 uppercase tracking-[0.06em]">Standard Arrival Window</div>
                   <div className="text-[40px] leading-[48px] text-secondary font-black">20–30 MIN</div>
-                  <div className="text-sm text-white/10">Rapid roadside or home driveway fitting equipped for all passenger and fleet tyre specifications.</div>
+                  <div className="text-sm text-white/70">Rapid roadside or home driveway fitting equipped for all passenger and fleet tyre specifications.</div>
                 </div>
                 <div className="grid grid-cols-2 gap-2 text-center">
                   <div className="bg-white/10 p-2 rounded">
                     <div className="text-lg font-semibold text-white">365</div>
-                    <div className="text-[11px] font-bold text-white/10">Days / Year</div>
+                    <div className="text-[11px] font-bold text-white/70">Days / Year</div>
                   </div>
                   <div className="bg-white/10 p-2 rounded">
                     <div className="text-lg font-semibold text-secondary">£0</div>
-                    <div className="text-[11px] font-bold text-white/10">Hidden Callout</div>
+                    <div className="text-[11px] font-bold text-white/70">Hidden Callout</div>
                   </div>
                 </div>
               </div>
@@ -263,10 +263,10 @@ export default function FailsworthPage() {
                 <div key={step.n} className="space-y-3">
                   <div className="flex items-center justify-between">
                     <span className="text-[40px] leading-[48px] font-extrabold text-secondary">{step.n}</span>
-                    <step.icon className="h-6 w-6 text-white/10" />
+                    <step.icon className="h-6 w-6 text-white/70" />
                   </div>
                   <h3 className="font-heading text-[22px] leading-[28px] font-semibold text-white">{step.title}</h3>
-                  <p className="text-base text-white/10 leading-relaxed">{step.body}</p>
+                  <p className="text-base text-white/70 leading-relaxed">{step.body}</p>
                 </div>
               ))}
             </div>
@@ -284,7 +284,7 @@ export default function FailsworthPage() {
                 Greater Manchester Rapid Response Radius
               </h2>
             </div>
-            <div className="text-sm text-white/10 max-w-md">
+            <div className="text-sm text-white/70 max-w-md">
               Continuous patrolling units positioned throughout the M35 postcode district and neighboring regional junctions.
             </div>
           </div>
@@ -364,19 +364,19 @@ export default function FailsworthPage() {
                   <span>Transparent Failsworth Pricing</span>
                 </div>
                 <h2 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-bold text-white">Instant Guaranteed Local Quote</h2>
-                <p className="text-base text-white/10 leading-relaxed">
+                <p className="text-base text-white/70 leading-relaxed">
                   No hidden travel charges or unannounced roadside markups. Every single price quote includes on-site mobile van dispatch, tyre casing, new rubber valves, electronic wheel balancing, and old tyre environmental disposal.
                 </p>
                 <div className="flex flex-wrap items-center gap-4 pt-1">
-                  <div className="flex items-center gap-2 text-white/10 text-sm">
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
                     <CheckCircle2 className="h-[18px] w-[18px] text-secondary" />
                     <span>Includes Mobile Callout</span>
                   </div>
-                  <div className="flex items-center gap-2 text-white/10 text-sm">
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
                     <CheckCircle2 className="h-[18px] w-[18px] text-secondary" />
                     <span>Eco Casing Recycling</span>
                   </div>
-                  <div className="flex items-center gap-2 text-white/10 text-sm">
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
                     <CheckCircle2 className="h-[18px] w-[18px] text-secondary" />
                     <span>Digital Balancing Included</span>
                   </div>
@@ -502,7 +502,7 @@ export default function FailsworthPage() {
                 </div>
                 <div className="mt-3 bg-primary/90 backdrop-blur-md px-4 py-2 rounded-lg text-white shadow-lg border border-white/10">
                   <div className="text-lg font-bold text-secondary">FAILSWORTH (M35)</div>
-                  <div className="text-[11px] font-bold uppercase tracking-[0.06em] text-white/10">A62 Corridor • M60 J22 • Daisy Nook</div>
+                  <div className="text-[11px] font-bold uppercase tracking-[0.06em] text-white/70">A62 Corridor • M60 J22 • Daisy Nook</div>
                 </div>
               </div>
             </div>
@@ -519,7 +519,7 @@ export default function FailsworthPage() {
               <h2 className="font-heading text-[40px] leading-[48px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-bold text-white">
                 Stuck with a tyre in Failsworth? We&rsquo;re on our way.
               </h2>
-              <p className="text-base text-white/10">Don&rsquo;t pay for recovery tow trucks. Get fitted right where you stand within 20 to 30 minutes.</p>
+              <p className="text-base text-white/70">Don&rsquo;t pay for recovery tow trucks. Get fitted right where you stand within 20 to 30 minutes.</p>
             </div>
             <div className="flex flex-col sm:flex-row md:flex-col lg:flex-row items-center gap-3 w-full md:w-auto shrink-0">
               <a
