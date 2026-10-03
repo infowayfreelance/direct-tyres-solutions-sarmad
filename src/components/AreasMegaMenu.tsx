@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { ChevronDown, MapPin, PhoneCall } from "lucide-react";
-import { locationAreasMain } from "@/lib/locations-data";
+import { locationAreas, locationAreasMain } from "@/lib/locations-data";
 
 type AreasMegaMenuProps = {
   currentSlug?: string;
@@ -126,25 +126,27 @@ export function AreasMegaMenuMobile({
         <ChevronDown className={`h-4 w-4 transition-transform ${open ? "rotate-180" : ""}`} />
       </button>
       {open && (
-        <div className="pl-3 pb-2 space-y-1">
-          {locationAreasMain.map((area) => (
-            <Link
-              key={area.slug}
-              href={area.href}
-              className={`block py-1.5 text-sm font-medium ${
-                area.slug === currentSlug ? "text-white font-bold" : "text-white/70"
-              }`}
-              onClick={onNavigate}
-            >
-              {area.label}
-            </Link>
-          ))}
+        <div className="pl-3 pb-2">
+          <div className="max-h-64 overflow-y-auto overscroll-contain space-y-1 pr-2">
+            {locationAreas.map((area) => (
+              <Link
+                key={area.slug}
+                href={area.href}
+                className={`block py-1.5 text-sm font-medium ${
+                  area.slug === currentSlug ? "text-white font-bold" : "text-white/70"
+                }`}
+                onClick={onNavigate}
+              >
+                {area.label}
+              </Link>
+            ))}
+          </div>
           <Link
             href="/areas-we-cover"
-            className="block py-1.5 text-sm font-semibold text-secondary"
+            className="block pt-2 text-sm font-semibold text-secondary"
             onClick={onNavigate}
           >
-            View all 100 areas we cover &rarr;
+            View full areas directory &rarr;
           </Link>
         </div>
       )}
