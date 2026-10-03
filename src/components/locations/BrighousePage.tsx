@@ -70,9 +70,9 @@ export default function BrighousePage() {
                 </p>
       {/* Core Call CTA Element */}
       <div className="mt-8 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <div className="flex items-center gap-3 px-4 py-2 rounded-full bg-primary/60 text-slate-300 text-[13px] leading-[18px]">
       <Zap className="text-secondary h-[18px] w-[18px]" />
@@ -589,9 +589,9 @@ export default function BrighousePage() {
       </div>
       {/* Urgent Call Button */}
       <div className="shrink-0 flex flex-col items-center gap-3">
-      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary/60 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold sm:text-[20px] sm:leading-[26px] sm:font-bold uppercase tracking-wider shadow-2xl active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary-dark hover:bg-primary/60 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold sm:text-[20px] sm:leading-[26px] sm:font-bold uppercase tracking-wider shadow-2xl active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-6 w-6 text-secondary" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-primary font-bold">
                       Zero automated queues • Real human dispatch

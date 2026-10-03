@@ -38,9 +38,9 @@ export default function PrestonPage() {
       </div>
       {/* Floating CTAs */}
       <div className="mt-6 flex flex-wrap items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-xl hover:shadow-primary-container/20" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-xl hover:shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/80 backdrop-blur-md text-white hover:text-secondary hover:bg-primary-light active:scale-95 transition-all" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" fill="currentColor" strokeWidth={0} />
@@ -351,7 +351,7 @@ export default function PrestonPage() {
       <Gauge className="text-secondary h-[14px] w-[14px]" />
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-white">Precision Laser Balanced</span>
       </div>
-      <a className="inline-flex items-center gap-1.5 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:08009992470">
+      <a className="inline-flex items-center gap-1.5 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:07955266077">
                       Call for Assistance <ArrowRight className="h-4 w-4" />
       </a>
       </div>
@@ -459,9 +459,9 @@ export default function PrestonPage() {
               </p>
       {/* Final Prominent Gold Pill Call Button */}
       <div className="pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-2xl hover:shadow-primary-container/30" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-2xl hover:shadow-primary-container/30" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       </div>
       </div>

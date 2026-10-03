@@ -32,9 +32,9 @@ export default function TyldesleyPage() {
             </p>
       {/* CTA Stack */}
       <div className="mt-10 flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-xl shadow-primary-container/20" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-xl shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="h-[22px] w-[22px]" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 hover:bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-all shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px] text-accent" />
@@ -124,9 +124,9 @@ export default function TyldesleyPage() {
       <div className="p-5 rounded-2xl bg-primary/80 backdrop-blur-md shadow-xl flex flex-col items-center text-center">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase text-gray-400 tracking-wider mb-2">Emergency Breakdown?</span>
       <span className="font-heading text-[20px] leading-[26px] font-bold text-white mb-3">Don&apos;t wait for a tow truck.</span>
-      <a className="w-full inline-flex items-center justify-center gap-2 py-3 px-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-lg" href="tel:08009992470">
+      <a className="w-full inline-flex items-center justify-center gap-2 py-3 px-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-lg" href="tel:07955266077">
       <PhoneCall className="h-[18px] w-[18px]" fill="currentColor" strokeWidth={0} />
-                    0800 999 2470
+                    07955 266 077
                   </a>
       <span className="text-[13px] leading-[18px] text-gray-400 mt-2">Zero booking deposit required</span>
       </div>
@@ -196,7 +196,7 @@ export default function TyldesleyPage() {
                           Fast response roadside replacement on dual carriageways, rural bypasses, and unlit back lanes. Full beacon safety setup and high-speed tyre demounting.
                         </p>
       </div>
-      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:08009992470">
+      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:07955266077">
                         Dispatch Van
                       </a>
       </div>
@@ -214,7 +214,7 @@ export default function TyldesleyPage() {
                           Premium brands (Michelin, Pirelli, Bridgestone, Continental) and budget options fitted while your vehicle sits securely on your Tyldesley driveway.
                         </p>
       </div>
-      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:08009992470">
+      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:07955266077">
                         Book Home Fit
                       </a>
       </div>
@@ -232,7 +232,7 @@ export default function TyldesleyPage() {
                           Lost key or stripped lug bolts? Our mobile technicians use non-destructive inverted carbide extractors to remove stubborn nuts without damaging your alloys.
                         </p>
       </div>
-      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:08009992470">
+      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:07955266077">
                         Unlock Alloys
                       </a>
       </div>
@@ -250,7 +250,7 @@ export default function TyldesleyPage() {
                           Heavy-load-rated reinforced commercial tyres (C-ply) fitted on site for delivery couriers, tradespeople, and delivery fleets working the M60 / A580 nexus.
                         </p>
       </div>
-      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:08009992470">
+      <a className="self-end sm:self-center px-4 py-2 rounded-full bg-primary hover:bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold whitespace-nowrap transition-colors" href="tel:07955266077">
                         Fleet Callout
                       </a>
       </div>
@@ -352,7 +352,7 @@ export default function TyldesleyPage() {
       <div className="pl-2">
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Call or WhatsApp Our Tyldesley Desk</h3>
       <p className="text-[15px] leading-[24px] text-gray-400 mt-1">
-                          Call <strong>0800 999 2470</strong>. Give our technician your Tyldesley location (e.g. driveway address, Astley car park, or A580 marker post).
+                          Call <strong>07955 266 077</strong>. Give our technician your Tyldesley location (e.g. driveway address, Astley car park, or A580 marker post).
                         </p>
       </div>
       </div>
@@ -528,9 +528,9 @@ export default function TyldesleyPage() {
       </div>
       {/* Right: Click to Call Action Block */}
       <div className="w-full lg:w-auto flex flex-col items-center sm:items-end gap-3 flex-shrink-0">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-4 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[30px] leading-[38px] font-bold hover:brightness-105 active:scale-95 transition-all shadow-2xl shadow-primary-container/30" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-4 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[30px] leading-[38px] font-bold hover:brightness-105 active:scale-95 transition-all shadow-2xl shadow-primary-container/30" href="tel:07955266077">
       <PhoneCall className="h-[30px] w-[30px]" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <div className="flex items-center gap-2 text-gray-400 text-[13px] leading-[18px]">
       <span className="inline-block w-2 h-2 rounded-full bg-accent-hover animate-pulse"></span>

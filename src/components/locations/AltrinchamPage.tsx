@@ -21,9 +21,9 @@ export default function AltrinchamPage() {
               </p>
       {/* CTA Action Group */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 w-full sm:w-auto pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary-dark font-bold text-base hover:bg-secondary-hover transition-all transform active:scale-95 shadow-lg shadow-[#ffd700]/10" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary-dark font-bold text-base hover:bg-secondary-hover transition-all transform active:scale-95 shadow-lg shadow-[#ffd700]/10" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-3 px-7 py-4 rounded-full bg-white/5 border border-white/20 text-white font-semibold text-base hover:bg-white/10 transition-all" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-[20px] w-[20px] text-green-500" />
@@ -224,7 +224,7 @@ export default function AltrinchamPage() {
       </div>
       <div className="flex items-center gap-4 p-4 rounded-xl border border-white/10 bg-white/5 text-gray-400 text-[13px] leading-[18px]">
       <HelpCircle className="text-secondary h-[24px] w-[24px]" />
-      <span>Don&apos;t see your specific road? If you are within 12 miles of Altrincham, our mobile units will dispatch directly. <strong className="text-white">Call 0800 999 2470</strong> for live tracking.</span>
+      <span>Don&apos;t see your specific road? If you are within 12 miles of Altrincham, our mobile units will dispatch directly. <strong className="text-white">Call 07955 266 077</strong> for live tracking.</span>
       </div>
       </div>
       {/* Workshop Image */}
@@ -256,7 +256,7 @@ export default function AltrinchamPage() {
       <div>
       <span className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-secondary block mb-3 font-extrabold opacity-90">01</span>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-2">Call Dispatch</h3>
-      <p className="text-[13px] leading-[18px] text-gray-400">Speak to an Altrincham technician directly on 0800 999 2470 with your location.</p>
+      <p className="text-[13px] leading-[18px] text-gray-400">Speak to an Altrincham technician directly on 07955 266 077 with your location.</p>
       </div>
       <div className="mt-4 pt-4 border-t border-white/5">
       <span className="text-xs text-white/50 uppercase tracking-wider">Instant Confirmation</span>
@@ -435,9 +435,9 @@ export default function AltrinchamPage() {
               Our local mobile fitting van is on standby right now. Direct dispatch with full tyre stocks for all passenger cars, 4x4s, and commercial vans.
             </p>
       <div className="pt-4 flex flex-col sm:flex-row items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary-dark font-bold text-lg hover:bg-secondary-hover transition-all transform active:scale-95 shadow-xl shadow-[#ffd700]/15" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary-dark font-bold text-lg hover:bg-secondary-hover transition-all transform active:scale-95 shadow-xl shadow-[#ffd700]/15" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       </div>
       <p className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 uppercase tracking-widest pt-2">

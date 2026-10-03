@@ -39,9 +39,9 @@ export default function CheadlePage() {
       </div>
       </div>
       <div className="space-y-3 pt-2">
-      <a className="w-full py-4 px-6 rounded-full bg-secondary hover:bg-secondary-hover text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider flex items-center justify-center gap-3 transition-all duration-200 active:scale-95 shadow-lg shadow-[#ffd700]/20 font-bold" href="tel:08009992470">
+      <a className="w-full py-4 px-6 rounded-full bg-secondary hover:bg-secondary-hover text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider flex items-center justify-center gap-3 transition-all duration-200 active:scale-95 shadow-lg shadow-[#ffd700]/20 font-bold" href="tel:07955266077">
       <PhoneCall className="h-[22px] w-[22px]" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full py-3.5 px-6 rounded-full bg-white/5 hover:bg-white/10 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center justify-center gap-3 transition-colors duration-200" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-green-400 h-[20px] w-[20px]" />
@@ -480,9 +480,9 @@ export default function CheadlePage() {
                 Don&apos;t wait hours for a tow truck. Speak straight to an emergency technician now for an instant quote and 25-minute response to your driveway or roadside.
               </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a className="w-full sm:w-auto px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase flex items-center justify-center gap-3 transition-transform active:scale-95 shadow-xl font-bold" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase flex items-center justify-center gap-3 transition-transform active:scale-95 shadow-xl font-bold" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       </div>
       <p className="text-[13px] leading-[18px] text-slate-400 mt-5">

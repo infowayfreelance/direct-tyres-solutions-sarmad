@@ -23,9 +23,9 @@ export default function BurnleyPage() {
                 Rapid roadside puncture replacement and workplace fleet tyre fitting across Burnley, Turf Moor, M65 Junctions 10 &amp; 11, and the A682 corridor. Mobile workshop vans on-site within 25–35 minutes.
               </p>
       <div className="flex flex-wrap items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-xl hover:brightness-105 active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-xl hover:brightness-105 active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/90 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-semibold shadow-md hover:bg-primary-light active:scale-95 transition-all" href="https://wa.me/448009992470?text=I%20need%20emergency%20tyre%20fitting%20in%20Burnley">
       <MessageCircle className="h-6 w-6 text-accent" />
@@ -133,7 +133,7 @@ export default function BurnleyPage() {
       <span className="px-2.5 py-0.5 rounded-full bg-secondary text-primary text-[11px] leading-[14px] tracking-[0.06em] font-bold font-bold">Available</span>
       </div>
       </div>
-      <a className="w-full text-center py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold hover:brightness-105 transition-all" href="tel:08009992470">
+      <a className="w-full text-center py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold hover:brightness-105 transition-all" href="tel:07955266077">
                     Request Nearest Van
                   </a>
       </div>
@@ -433,9 +433,9 @@ export default function BurnleyPage() {
               </p>
       </div>
       <div className="flex flex-wrap items-center justify-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-2xl hover:bg-primary-light active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-2xl hover:bg-primary-light active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="text-secondary h-6 w-6" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-accent text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-bold shadow-xl hover:brightness-110 active:scale-95 transition-all" href="https://wa.me/448009992470?text=Emergency%20tyre%20fitting%20in%20Burnley">
       <MessageCircle className="text-white h-6 w-6" />

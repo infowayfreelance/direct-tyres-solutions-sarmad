@@ -23,9 +23,9 @@ export default function RamsbottomPage() {
               Immediate roadside and driveway deployment across the Pennine corridor and Rossendale Valley. On-scene tyre replacement for severe rural inclines, Holcombe Hill approaches, and the M66/A56 trunk route.
             </p>
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 max-w-xl">
-      <a className="flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover transition-all active:scale-95 text-center" href="tel:08009992470">
+      <a className="flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover transition-all active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary transition-all active:scale-95 text-center" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px] text-accent" />
@@ -422,9 +422,9 @@ export default function RamsbottomPage() {
             </p>
       {/* Split Bar: Equal-Width Buttons */}
       <div className="w-full grid grid-cols-1 sm:grid-cols-2 gap-4">
-      <a className="flex items-center justify-center gap-3 w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover transition-all active:scale-95 text-center" href="tel:08009992470">
+      <a className="flex items-center justify-center gap-3 w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-secondary-hover transition-all active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="flex items-center justify-center gap-3 w-full py-4 px-6 rounded-full bg-accent text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider shadow-lg hover:bg-blue-600 transition-all active:scale-95 text-center" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px]" />

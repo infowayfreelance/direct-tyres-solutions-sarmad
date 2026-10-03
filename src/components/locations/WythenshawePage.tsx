@@ -22,9 +22,9 @@ export default function WythenshawePage() {
                 </p>
       {/* CTAs */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 pt-2">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-bold text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-bold text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" fill="currentColor" strokeWidth={0} />
-      <span>Call Now 0800 999 2470</span>
+      <span>Call Now 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-all active:scale-95 shadow-lg" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-6 w-6" />
@@ -92,8 +92,8 @@ export default function WythenshawePage() {
       <strong className="text-white font-semibold">Live Status:</strong> Mobile technician patrolling M56 / M60 &amp; Manchester Airport corridor now • Typical arrival 30-40 mins
               </p>
       </div>
-      <a className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-secondary hover:underline whitespace-nowrap" href="tel:08009992470">
-              Emergency Line: 0800 999 2470 →
+      <a className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-secondary hover:underline whitespace-nowrap" href="tel:07955266077">
+              Emergency Line: 07955 266 077 →
             </a>
       </div>
       </aside>
@@ -317,7 +317,7 @@ export default function WythenshawePage() {
       <div>
       <h3 className="text-[20px] leading-[26px] font-bold font-heading text-white">Call 24/7 or Send Location</h3>
       <p className="text-[15px] leading-[24px] text-slate-300 mt-1 max-w-xl">
-                    Phone <a className="text-secondary font-semibold underline" href="tel:08009992470">0800 999 2470</a> or drop a WhatsApp pin. Our dedicated South Manchester coordinator immediately traces the nearest patrol van.
+                    Phone <a className="text-secondary font-semibold underline" href="tel:07955266077">07955 266 077</a> or drop a WhatsApp pin. Our dedicated South Manchester coordinator immediately traces the nearest patrol van.
                   </p>
       </div>
       </div>
@@ -539,9 +539,9 @@ export default function WythenshawePage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 shrink-0 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-primary hover:bg-primary-dark text-white font-bold text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-primary hover:bg-primary-dark text-white font-bold text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-6 w-6 text-secondary" />
-      <span>Call Dispatch: 0800 999 2470</span>
+      <span>Call Dispatch: 07955 266 077</span>
       </a>
       </div>
       </div>

@@ -26,9 +26,9 @@ export default function HeywoodPage() {
             </p>
       {/* Tactical CTAs */}
       <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a className="inline-flex items-center gap-3 rounded-full bg-secondary px-8 py-4 text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading uppercase text-white shadow-xl hover:bg-secondary-hover active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 rounded-full bg-secondary px-8 py-4 text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading uppercase text-white shadow-xl hover:bg-secondary-hover active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center gap-3 rounded-full bg-primary/80 px-8 py-4 text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading uppercase text-white shadow-lg hover:bg-primary transition-all" href="https://wa.me/448009992470">
       <MessageCircle className="h-[24px] w-[24px] text-accent" />
@@ -148,7 +148,7 @@ export default function HeywoodPage() {
       <div className="space-y-3">
       <div className="flex items-center justify-between text-[13px] leading-[18px]">
       <span className="text-gray-400/70">Heywood Hub Direct Line</span>
-      <span className="font-bold text-white">0800 999 2470</span>
+      <span className="font-bold text-white">07955 266 077</span>
       </div>
       <div className="flex items-center justify-between text-[13px] leading-[18px]">
       <span className="text-gray-400/70">Average Response Status</span>
@@ -192,7 +192,7 @@ export default function HeywoodPage() {
       </div>
       <div className="mt-6 flex items-center justify-between pt-4 bg-primary-dark/40 rounded-xl px-4 py-3">
       <span className="text-[13px] leading-[18px] text-gray-400">Includes laser balancing &amp; new rubber valve</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -213,7 +213,7 @@ export default function HeywoodPage() {
       </div>
       <div className="mt-6 flex items-center justify-between pt-4 bg-primary-dark/40 rounded-xl px-4 py-3">
       <span className="text-[13px] leading-[18px] text-gray-400">Rigorous 5-point rim &amp; bead integrity check</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -234,7 +234,7 @@ export default function HeywoodPage() {
       </div>
       <div className="mt-6 flex items-center justify-between pt-4 bg-primary-dark/40 rounded-xl px-4 py-3">
       <span className="text-[13px] leading-[18px] text-gray-400">100% success rate on BMW, Ford, Audi, JLR</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -255,7 +255,7 @@ export default function HeywoodPage() {
       </div>
       <div className="mt-6 flex items-center justify-between pt-4 bg-primary-dark/40 rounded-xl px-4 py-3">
       <span className="text-[13px] leading-[18px] text-gray-400">Full VAT invoicing &amp; fleet accounts available</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Dispatch <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -278,7 +278,7 @@ export default function HeywoodPage() {
                     Strategic rapid dispatch to <span className="text-secondary font-extrabold">M62 (Junction 19)</span>, <span className="text-secondary font-extrabold">M66</span>, and <span className="text-secondary font-extrabold">A58 Rochdale Road</span>. Immediate response units serving Heywood Town Centre, Pilsworth, Bamford, Bury, Middleton, and Rochdale.
                   </p>
       </div>
-      <a className="shrink-0 rounded-full bg-secondary px-6 py-3.5 text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase font-bold text-white hover:bg-secondary-hover transition-all" href="tel:08009992470">
+      <a className="shrink-0 rounded-full bg-secondary px-6 py-3.5 text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase font-bold text-white hover:bg-secondary-hover transition-all" href="tel:07955266077">
                   Call Local Depot
                 </a>
       </div>
@@ -308,7 +308,7 @@ export default function HeywoodPage() {
                   </div>
       <h4 className="text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading text-white mb-2">Call In</h4>
       <p className="text-[13px] leading-[18px] text-gray-400/70">
-                    Ring 0800 999 2470 with your location or vehicle registration.
+                    Ring 07955 266 077 with your location or vehicle registration.
                   </p>
       </div>
       {/* Step 02 */}
@@ -562,9 +562,9 @@ export default function HeywoodPage() {
       </div>
       </div>
       <div className="flex flex-wrap items-center justify-center gap-4 shrink-0">
-      <a className="inline-flex items-center gap-3 rounded-full bg-secondary px-8 py-4 text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading uppercase text-white shadow-2xl hover:bg-secondary-hover active:scale-95 transition-all" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 rounded-full bg-secondary px-8 py-4 text-[16px] leading-[22px] tracking-[0.01em] font-bold font-heading uppercase text-white shadow-2xl hover:bg-secondary-hover active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-      <span>Call 0800 999 2470 Now</span>
+      <span>Call 07955 266 077 Now</span>
       </a>
       </div>
       </div>

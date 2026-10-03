@@ -25,9 +25,9 @@ export default function CrewePage() {
       </div>
       {/* CTAs */}
       <div className="flex flex-wrap items-center gap-4">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-bold hover:bg-secondary-hover transition-transform duration-150 active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-bold hover:bg-secondary-hover transition-transform duration-150 active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-primary font-bold h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/60 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-semibold hover:bg-primary-light transition-all duration-150" href="https://wa.me/448009992470?text=Emergency%20tyre%20fitting%20dispatch%20Crewe" rel="noopener" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -147,7 +147,7 @@ export default function CrewePage() {
                     Complete blowouts, rim damage, and sidewall rips replaced on the roadside or driveway at any hour across Crewe, including weekend night shifts.
                   </p>
       </div>
-      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:07955266077">
                   Dispatch Now
                 </a>
       </div>
@@ -165,7 +165,7 @@ export default function CrewePage() {
                     Tread nail and screw extractions assessed and sealed strictly compliant with British safety standards directly on your driveway or workplace.
                   </p>
       </div>
-      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:07955266077">
                   Book Repair
                 </a>
       </div>
@@ -183,7 +183,7 @@ export default function CrewePage() {
                     Heavy-ply commercial tyres (Ford Transit, Sprinter, Vauxhall Vivaro) fitted with precision laser balancing to eliminate cargo transit delays.
                   </p>
       </div>
-      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:07955266077">
                   Fleet Support
                 </a>
       </div>
@@ -201,7 +201,7 @@ export default function CrewePage() {
                     Lost security key or overtightened/sheared rounded lugs safely extracted with precision inverse hydraulic tooling without scratching alloy wheels.
                   </p>
       </div>
-      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary hover:text-primary transition-colors flex-shrink-0" href="tel:07955266077">
                   Get Assist
                 </a>
       </div>
@@ -305,7 +305,7 @@ export default function CrewePage() {
       <div>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white font-bold">Dial Dispatch</h3>
       <p className="text-[13px] leading-[18px] text-gray-400 mt-1">
-                      Call 0800 999 2470 or send your live pin on WhatsApp. We confirm your Crewe location in seconds.
+                      Call 07955 266 077 or send your live pin on WhatsApp. We confirm your Crewe location in seconds.
                     </p>
       </div>
       </div>
@@ -491,9 +491,9 @@ export default function CrewePage() {
                 Our rapid response mobile technicians are on standby right now. Give our Cheshire dispatch team a call and we&apos;ll send a van straight to your location.
               </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold font-black tracking-wide hover:bg-secondary-hover transition-transform duration-150 active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold font-black tracking-wide hover:bg-secondary-hover transition-transform duration-150 active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="font-black h-5 w-5" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-5 rounded-full bg-primary text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-semibold hover:bg-primary-light transition-colors" href="https://wa.me/448009992470?text=I%20need%20a%20mobile%20tyre%20fitting%20in%20Crewe" rel="noopener" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />

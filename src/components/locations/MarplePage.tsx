@@ -20,9 +20,9 @@ export default function MarplePage() {
               Immediate Pennine roadside tyre replacement across the A626, A627, and M62 corridors. Avoid costly recovery flatbeds—our fully-equipped mobile workshops replace and balance tyres on-site within 30–50 minutes.
             </p>
       <div className="flex flex-col sm:flex-row items-center gap-space-md w-full justify-center">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="font-bold h-5 w-5" />
-                Call 24/7 Dispatch 0800 999 2470
+                Call 24/7 Dispatch 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm px-8 py-4 rounded-full bg-primary/80 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary active:scale-95 transition-all backdrop-blur-md shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -181,7 +181,7 @@ export default function MarplePage() {
       <span className="flex-shrink-0 w-10 h-10 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold flex items-center justify-center font-bold">1</span>
       <div>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Call or WhatsApp With Your Location</h3>
-      <p className="text-[15px] leading-[24px] text-gray-300 mt-1">Dial 0800 999 2470. Give our South Pennine dispatcher your tyre size (from the tyre sidewall) and what3words or road marker.</p>
+      <p className="text-[15px] leading-[24px] text-gray-300 mt-1">Dial 07955 266 077. Give our South Pennine dispatcher your tyre size (from the tyre sidewall) and what3words or road marker.</p>
       </div>
       </div>
       <div className="flex items-start gap-4 p-space-md rounded-xl bg-primary/80 hover:bg-primary/80 transition-colors">
@@ -348,9 +348,9 @@ export default function MarplePage() {
       <p className="text-[18px] leading-[28px] text-gray-300 max-w-xl mb-space-lg">
               Don’t wait hours in cold Pennine weather for a recovery trailer. Call our mobile fitting unit right now for instant dispatch to your exact location.
             </p>
-      <a className="inline-flex items-center gap-space-sm px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold hover:bg-secondary-hover active:scale-95 transition-all shadow-2xl" href="tel:08009992470">
+      <a className="inline-flex items-center gap-space-sm px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold hover:bg-secondary-hover active:scale-95 transition-all shadow-2xl" href="tel:07955266077">
       <PhoneCall className="font-bold h-5 w-5" />
-              Call 0800 999 2470
+              Call 07955 266 077
             </a>
       <p className="text-[13px] leading-[18px] text-gray-400 mt-space-md">
               24/7 Pennine response note: All weather tyres and run-flats in stock.

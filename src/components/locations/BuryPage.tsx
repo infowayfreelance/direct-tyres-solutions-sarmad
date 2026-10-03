@@ -20,9 +20,9 @@ export default function BuryPage() {
                 Rapid roadside, car park, and driveway dispatch covering The Rock shopping district, Moorgate, Pilsworth Retail Park, and the heavy M66 &amp; A56 arterial corridors. Standard 30–45 minute on-scene response with fully equipped workshop vans.
               </p>
       <div className="flex flex-wrap items-center gap-space-md pt-2">
-      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full transition-transform active:scale-95 shadow-lg" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-4 rounded-full transition-transform active:scale-95 shadow-lg" href="tel:07955266077">
       <PhoneCall className="text-[20px] leading-[26px] font-bold h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center gap-3 bg-primary/80 hover:bg-primary-light text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-7 py-4 rounded-full transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -250,7 +250,7 @@ export default function BuryPage() {
       <h3 className="font-heading text-[20px] leading-[26px] font-bold text-white">Call &amp; Locate</h3>
       </div>
       <p className="text-[15px] leading-[24px] text-gray-400">
-                    Dial <strong>0800 999 2470</strong> or WhatsApp us. Provide your vehicle registration or tyre size (e.g. 205/55 R16) and your exact Bury location or What3Words reference.
+                    Dial <strong>07955 266 077</strong> or WhatsApp us. Provide your vehicle registration or tyre size (e.g. 205/55 R16) and your exact Bury location or What3Words reference.
                   </p>
       </div>
       </div>
@@ -514,9 +514,9 @@ export default function BuryPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 shrink-0">
-      <a className="inline-flex items-center gap-3 bg-primary-dark hover:bg-primary/60 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-5 rounded-full transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center gap-3 bg-primary-dark hover:bg-primary/60 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-8 py-5 rounded-full transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-[20px] leading-[26px] font-bold text-secondary h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       </div>
       </div>

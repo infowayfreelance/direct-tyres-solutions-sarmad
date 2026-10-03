@@ -31,9 +31,9 @@ export default function DewsburyPage() {
               </p>
       {/* Dispatch CTA Group */}
       <div className="flex flex-wrap items-center gap-space-sm pt-space-xs">
-      <a className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-primary h-5 w-5" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary-light active:scale-95 transition-all" href="https://wa.me/447700123456">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -241,7 +241,7 @@ export default function DewsburyPage() {
       </div>
       </div>
       <div className="mt-space-md pt-space-xs">
-      <a className="inline-flex items-center gap-2 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:08009992470">
+      <a className="inline-flex items-center gap-2 text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline" href="tel:07955266077">
                           Dispatch to your GPS point <ArrowUpRight className="h-5 w-5" />
       </a>
       </div>
@@ -265,7 +265,7 @@ export default function DewsburyPage() {
       <div className="transform md:skew-x-3">
       <span className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-secondary/20 block leading-none mb-2">01</span>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-1">Emergency Call</h3>
-      <p className="text-[13px] leading-[18px] text-gray-400">Dial 0800 999 2470 or WhatsApp your live map pin to our dispatch center.</p>
+      <p className="text-[13px] leading-[18px] text-gray-400">Dial 07955 266 077 or WhatsApp your live map pin to our dispatch center.</p>
       </div>
       <div className="transform md:skew-x-3 mt-4 pt-2 border-0">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 uppercase">2-min triage</span>
@@ -371,7 +371,7 @@ export default function DewsburyPage() {
       <div className="p-space-md rounded-2xl bg-primary/60 text-white flex flex-col gap-2">
       <span className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Need an immediate answer?</span>
       <p className="text-[13px] leading-[18px] text-gray-400">Technicians are active in Kirklees 24 hours a day, 365 days a year.</p>
-      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline mt-1" href="tel:08009992470">Speak directly: 0800 999 2470</a>
+      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:underline mt-1" href="tel:07955266077">Speak directly: 07955 266 077</a>
       </div>
       </div>
       {/* Accordion Column */}
@@ -459,9 +459,9 @@ export default function DewsburyPage() {
                 </p>
       </div>
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-space-sm">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[20px] leading-[26px] font-bold hover:bg-primary/60 transition-all active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[20px] leading-[26px] font-bold hover:bg-primary/60 transition-all active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-secondary h-5 w-5" fill="currentColor" strokeWidth={0} />
-                  0800 999 2470
+                  07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary-dark/10 text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:bg-primary-dark/20 transition-all" href="https://wa.me/447700123456">
                   WhatsApp Live Support

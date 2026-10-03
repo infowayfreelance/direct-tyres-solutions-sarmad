@@ -20,9 +20,9 @@ export default function IrlamPage() {
               Heavy commercial van and passenger tyre replacement across Northbank Industrial Estate, Cadishead Way (A57), and Irlam residential estates. Fast roadside and on-site fitting with zero downtime.
             </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider transition-transform active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider transition-transform active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -153,7 +153,7 @@ export default function IrlamPage() {
       <span className="font-heading text-[30px] leading-[38px] font-bold text-secondary">01</span>
       <div>
       <h4 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-1">Emergency Call</h4>
-      <p className="text-[13px] leading-[18px] text-gray-400">Call our team directly on 0800 999 2470 with your location.</p>
+      <p className="text-[13px] leading-[18px] text-gray-400">Call our team directly on 07955 266 077 with your location.</p>
       </div>
       </div>
       <div className="p-5 rounded-xl bg-primary/60 flex flex-col items-start justify-between min-h-[140px]">
@@ -281,9 +281,9 @@ export default function IrlamPage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-4 flex-shrink-0">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider transition-transform active:scale-95 shadow-md" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider transition-transform active:scale-95 shadow-md" href="tel:07955266077">
       <PhoneCall className="text-secondary h-5 w-5" fill="currentColor" strokeWidth={0} />
-                0800 999 2470
+                07955 266 077
               </a>
       </div>
       </div>

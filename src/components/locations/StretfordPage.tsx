@@ -24,10 +24,10 @@ export default function StretfordPage() {
       <div className="p-5 md:p-6 space-y-5">
       <div className="space-y-1">
       <span className="text-gray-400 text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase">24-Hour Roadside Control</span>
-      <a className="flex items-center justify-between w-full bg-secondary hover:bg-yellow-400 text-primary font-heading text-[20px] leading-[26px] font-bold font-bold px-4 py-3.5 rounded-full shadow-lg transition-transform active:scale-95 group" href="tel:08009992470">
+      <a className="flex items-center justify-between w-full bg-secondary hover:bg-yellow-400 text-primary font-heading text-[20px] leading-[26px] font-bold font-bold px-4 py-3.5 rounded-full shadow-lg transition-transform active:scale-95 group" href="tel:07955266077">
       <span className="flex items-center gap-2">
       <PhoneCall className="h-[22px] w-[22px]" />
-                        0800 999 2470
+                        07955 266 077
                       </span>
       <ArrowRight className="h-[18px] w-[18px] group-hover:translate-x-1 transition-transform" />
       </a>
@@ -90,9 +90,9 @@ export default function StretfordPage() {
                     Driveway puncture repairs and roadside tyre replacement across Chester Road (A56), Edge Lane, and Stretford residential avenues. Fast van dispatch equipped with precision electronic balancing and commercial mounting gear.
                   </p>
       <div className="flex flex-wrap gap-4 pt-2">
-      <a className="bg-secondary hover:bg-yellow-400 text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-7 py-3.5 rounded-full shadow-lg flex items-center gap-2 transition-all transform hover:-translate-y-0.5" href="tel:08009992470">
+      <a className="bg-secondary hover:bg-yellow-400 text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-7 py-3.5 rounded-full shadow-lg flex items-center gap-2 transition-all transform hover:-translate-y-0.5" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-                      Call 0800 999 2470
+                      Call 07955 266 077
                     </a>
       <a className="bg-primary/80 hover:bg-primary-light text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold px-6 py-3.5 rounded-full shadow flex items-center gap-2 transition-colors" href="https://wa.me/448009992470">
       <MessageCircle className="text-emerald-400 h-[20px] w-[20px]" />
@@ -216,7 +216,7 @@ export default function StretfordPage() {
       <div className="w-9 h-9 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold flex items-center justify-center shrink-0">1</div>
       <div className="space-y-1">
       <div className="text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold">Initial Contact &amp; Location Fix</div>
-      <p className="text-gray-400 text-[13px] leading-[18px]">Call 0800 999 2470 or WhatsApp your live Stretford street pin, whether stranded on Edge Lane or parked on your private drive.</p>
+      <p className="text-gray-400 text-[13px] leading-[18px]">Call 07955 266 077 or WhatsApp your live Stretford street pin, whether stranded on Edge Lane or parked on your private drive.</p>
       </div>
       </div>
       <div className="flex gap-4 items-start">
@@ -372,9 +372,9 @@ export default function StretfordPage() {
               </p>
       </div>
       <div className="flex flex-col sm:flex-row items-center gap-3 shrink-0 w-full sm:w-auto">
-      <a className="w-full sm:w-auto bg-primary-dark hover:bg-black text-white font-heading text-[20px] leading-[26px] font-bold font-bold px-8 py-4 rounded-full shadow-2xl flex items-center justify-center gap-3 transition-transform active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto bg-primary-dark hover:bg-black text-white font-heading text-[20px] leading-[26px] font-bold font-bold px-8 py-4 rounded-full shadow-2xl flex items-center justify-center gap-3 transition-transform active:scale-95" href="tel:07955266077">
       <PhoneCall className="text-secondary h-[24px] w-[24px]" />
-                0800 999 2470
+                07955 266 077
               </a>
       </div>
       </div>

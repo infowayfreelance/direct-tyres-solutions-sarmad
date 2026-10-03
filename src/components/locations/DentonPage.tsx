@@ -48,9 +48,9 @@ export default function DentonPage() {
       </div>
       {/* CTAs */}
       <div className="flex flex-col sm:flex-row gap-3 pt-4">
-      <a className="flex-1 inline-flex items-center justify-center gap-2 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-6 py-4 rounded-full shadow-lg transition-transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="flex-1 inline-flex items-center justify-center gap-2 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-6 py-4 rounded-full shadow-lg transition-transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold px-5 py-4 rounded-full backdrop-blur-md transition-colors text-center" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-[20px] w-[20px] text-green-400" />
@@ -317,7 +317,7 @@ export default function DentonPage() {
       </div>
       <div className="mt-8 pt-4 flex items-center justify-between">
       <span className="text-xs text-gray-400 text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider">SK14 Mobile Van #2</span>
-      <a className="inline-flex items-center gap-2 text-secondary hover:text-secondary-hover font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase text-sm" href="tel:08009992470">
+      <a className="inline-flex items-center gap-2 text-secondary hover:text-secondary-hover font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase text-sm" href="tel:07955266077">
       <span>Request Similar Rapid Service</span>
       <ArrowRight className="h-[18px] w-[18px]" />
       </a>
@@ -477,9 +477,9 @@ export default function DentonPage() {
                   Our fully equipped response units are on standby 24 hours a day, 7 days a week across Denton, the M60 corridor, and M67 Mottram bypass.
                 </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-8 py-4 rounded-full shadow-xl transition-transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase px-8 py-4 rounded-full shadow-xl transition-transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-[22px] w-[22px]" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-white/10 hover:bg-white/20 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold px-6 py-4 rounded-full backdrop-blur-md transition-colors text-center" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="h-[22px] w-[22px] text-green-400" />

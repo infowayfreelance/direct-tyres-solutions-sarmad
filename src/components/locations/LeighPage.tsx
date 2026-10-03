@@ -24,9 +24,9 @@ export default function LeighPage() {
                 </p>
       {/* Direct CTAs Inline */}
       <div className="flex flex-wrap items-center gap-space-sm w-full sm:w-auto">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-xl" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-xl" href="tel:07955266077">
       <PhoneCall className="text-[20px] leading-[26px] font-bold h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -340,9 +340,9 @@ export default function LeighPage() {
       <p className="text-[13px] leading-[18px] text-gray-400">Priority operators standing by for Leigh dispatch.</p>
       </div>
       </div>
-      <a className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary-hover transition-colors" href="tel:08009992470">
+      <a className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-secondary text-primary text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider hover:bg-secondary-hover transition-colors" href="tel:07955266077">
       <PhoneCall className="h-[14px] w-[14px]" fill="currentColor" strokeWidth={0} />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       </div>
       </div>
@@ -469,9 +469,9 @@ export default function LeighPage() {
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-lg mb-space-lg">
                 Don&apos;t wait hours for a recovery lorry. Our specialized mobile fitting van is stocked and ready to reach your Leigh location now.
               </p>
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl mb-space-sm" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-transform active:scale-95 shadow-2xl mb-space-sm" href="tel:07955266077">
       <PhoneCall className="text-[20px] leading-[26px] font-bold h-5 w-5" fill="currentColor" strokeWidth={0} />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <p className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400">
                 24/7 Guaranteed Response • No Callout Surcharge During Daylight Hours • Transparent UK Quotations

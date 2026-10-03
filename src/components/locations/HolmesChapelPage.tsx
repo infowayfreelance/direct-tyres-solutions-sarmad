@@ -28,9 +28,9 @@ export default function HolmesChapelPage() {
             </p>
       {/* Primary Action CTA */}
       <div className="flex flex-col sm:flex-row w-full gap-space-sm justify-center items-center">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary font-heading tracking-wide transition-all transform active:scale-95 shadow-lg shadow-primary-container/20" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-secondary text-primary font-heading tracking-wide transition-all transform active:scale-95 shadow-lg shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/80 text-white transition-all active:scale-95" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px]" />
@@ -267,9 +267,9 @@ export default function HolmesChapelPage() {
       <p className="text-[15px] leading-[24px] text-white mb-space-lg max-w-md">
               Call our live Cheshire control desk right now. We confirm your tyre size in 60 seconds and deploy the closest on-call mobile fitting van.
             </p>
-      <a className="w-full max-w-md inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading tracking-wide transition-all transform active:scale-95 shadow-xl shadow-primary-container/25" href="tel:08009992470">
+      <a className="w-full max-w-md inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading tracking-wide transition-all transform active:scale-95 shadow-xl shadow-primary-container/25" href="tel:07955266077">
       <PhoneCall className="h-[22px] w-[22px]" fill="currentColor" strokeWidth={0} />
-              Call 0800 999 2470 Now
+              Call 07955 266 077 Now
             </a>
       <div className="mt-space-md flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-gray-400 uppercase tracking-wider">
       <span>• 24/7 Cheshire Dispatch</span>

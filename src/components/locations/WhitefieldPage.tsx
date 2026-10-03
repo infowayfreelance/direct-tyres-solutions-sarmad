@@ -38,8 +38,8 @@ export default function WhitefieldPage() {
       <div className="p-space-md space-y-space-md">
       <div>
       <p className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase text-gray-400 tracking-wider">Emergency Line</p>
-      <a className="block font-heading text-[30px] leading-[38px] font-bold text-white hover:text-secondary transition-colors tracking-tight" href="tel:08009992470">
-                      0800 999 2470
+      <a className="block font-heading text-[30px] leading-[38px] font-bold text-white hover:text-secondary transition-colors tracking-tight" href="tel:07955266077">
+                      07955 266 077
                     </a>
       <p className="text-[13px] leading-[18px] text-gray-400 flex items-center gap-1 mt-1">
       <ShieldCheck className="h-4 w-4 text-gray-400" />
@@ -47,7 +47,7 @@ export default function WhitefieldPage() {
                     </p>
       </div>
       {/* Primary Phone CTA */}
-      <a className="w-full flex items-center justify-center gap-2 bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-bold py-3.5 px-6 rounded-full hover:bg-secondary-hover active:scale-95 transition-all shadow-md" href="tel:08009992470">
+      <a className="w-full flex items-center justify-center gap-2 bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold font-bold py-3.5 px-6 rounded-full hover:bg-secondary-hover active:scale-95 transition-all shadow-md" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
                     Call Technician 24/7
                   </a>
@@ -414,9 +414,9 @@ export default function WhitefieldPage() {
               </p>
       </div>
       <div className="pt-space-xs flex flex-col sm:flex-row items-center justify-center gap-space-md">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold font-bold px-8 py-4 rounded-full hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold font-bold px-8 py-4 rounded-full hover:bg-secondary-hover active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-6 w-6" />
-                Call Whitefield Dispatch: 0800 999 2470
+                Call Whitefield Dispatch: 07955 266 077
               </a>
       </div>
       <p className="text-[13px] leading-[18px] text-gray-400 pt-1">

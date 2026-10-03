@@ -29,9 +29,9 @@ export default function HalifaxPage() {
       </div>
       {/* Quick Action Buttons & Status */}
       <div className="pt-4 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
-      <a className="group inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 shadow-xl shadow-primary-container/10" href="tel:08009992470">
+      <a className="group inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all duration-200 transform active:scale-95 shadow-xl shadow-primary-container/10" href="tel:07955266077">
       <PhoneCall className="text-primary group-hover:rotate-12 transition-transform h-5 w-5" />
-      <span>CALL DISPATCH 0800 999 2470</span>
+      <span>CALL DISPATCH 07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-5 rounded-full bg-primary/80 hover:bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold transition-colors" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-secondary h-5 w-5" />
@@ -440,9 +440,9 @@ export default function HalifaxPage() {
             </p>
       {/* Click-to-call visible twice (Hero + CTA) */}
       <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-6 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold transition-all duration-200 transform active:scale-95 shadow-2xl shadow-primary-container/20" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-6 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[20px] leading-[26px] font-bold transition-all duration-200 transform active:scale-95 shadow-2xl shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="text-primary h-[28px] w-[28px]" />
-      <span>DISPATCH TYRE VAN: 0800 999 2470</span>
+      <span>DISPATCH TYRE VAN: 07955 266 077</span>
       </a>
       </div>
       <div className="mt-8 flex items-center justify-center gap-6 text-gray-400 text-[14px] leading-[18px] tracking-[0.02em] font-semibold">

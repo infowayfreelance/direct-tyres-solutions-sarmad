@@ -22,9 +22,9 @@ export default function DarwenPage() {
                 </p>
       </div>
       <div className="pt-8 space-y-3">
-      <a className="w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold flex items-center justify-center gap-2 shadow-lg transition-transform active:scale-95 text-center" href="tel:08009992470">
+      <a className="w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold flex items-center justify-center gap-2 shadow-lg transition-transform active:scale-95 text-center" href="tel:07955266077">
       <PhoneCall className="h-[18px] w-[18px]" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full py-3.5 px-6 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center justify-center gap-2 transition-colors hover:bg-primary-light text-center" href="https://wa.me/448009992470">
       <MessageCircle className="h-[18px] w-[18px] text-gray-400" />
@@ -410,9 +410,9 @@ export default function DarwenPage() {
                 Don&apos;t risk driving on a damaged tyre or waiting hours for a tow. Our local van is on standby for swift, professional roadside or driveway fitting.
               </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2">
-      <a className="w-full sm:w-auto py-4 px-8 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold flex items-center justify-center gap-2 shadow-xl hover:opacity-95 transition-transform active:scale-95" href="tel:08009992470">
+      <a className="w-full sm:w-auto py-4 px-8 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold flex items-center justify-center gap-2 shadow-xl hover:opacity-95 transition-transform active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="w-full sm:w-auto py-4 px-8 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold flex items-center justify-center gap-2 hover:bg-primary-light transition-colors" href="https://wa.me/448009992470">
       <MessageCircle className="text-gray-400 h-5 w-5" />

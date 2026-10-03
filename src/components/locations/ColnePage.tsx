@@ -29,9 +29,9 @@ export default function ColnePage() {
               </p>
       {/* CTA Cluster: Phone & WhatsApp Link */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 mb-8">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-xl hover:bg-secondary-hover transition-transform duration-150 active:scale-95 group" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider font-extrabold shadow-xl hover:bg-secondary-hover transition-transform duration-150 active:scale-95 group" href="tel:07955266077">
       <PhoneCall className="text-primary h-6 w-6 group-hover:animate-bounce" />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/80 text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold shadow-md hover:bg-primary transition duration-200" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -204,7 +204,7 @@ export default function ColnePage() {
                   Woke up to a flat tyre in Trawden or Foulridge? Don&apos;t risk rim damage driving down narrow drystone-walled lanes to a garage. Our mobile technician comes directly to your home, workplace, or farm holding.
                 </p>
       </div>
-      <a className="shrink-0 px-6 py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase font-bold hover:bg-secondary-hover transition" href="tel:08009992470">
+      <a className="shrink-0 px-6 py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase font-bold hover:bg-secondary-hover transition" href="tel:07955266077">
                 Book Driveway Slot
               </a>
       </div>
@@ -282,7 +282,7 @@ export default function ColnePage() {
                 1
               </div>
       <h4 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-1">Call Our Dispatch</h4>
-      <p className="text-[13px] leading-[18px] text-gray-400">Dial 0800 999 2470. Tell us your location in Colne and your tyre sidewall dimensions or vehicle reg.</p>
+      <p className="text-[13px] leading-[18px] text-gray-400">Dial 07955 266 077. Tell us your location in Colne and your tyre sidewall dimensions or vehicle reg.</p>
       </div>
       {/* Step 2 */}
       <div className="flex flex-col items-center text-center relative group">
@@ -416,7 +416,7 @@ export default function ColnePage() {
       <h3 className="font-heading text-[20px] leading-[26px] font-bold text-white">Nearby Coverage Hubs in Pendle &amp; Lancashire</h3>
       <p className="text-[13px] leading-[18px] text-gray-400">Operating seamless reciprocal coverage with adjacent rapid-response vans.</p>
       </div>
-      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold mt-2 md:mt-0 flex items-center gap-1" href="tel:08009992470">
+      <a className="text-secondary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold mt-2 md:mt-0 flex items-center gap-1" href="tel:07955266077">
               Check ETA in your zone <ArrowUpRight className="h-5 w-5" />
       </a>
       </div>
@@ -462,9 +462,9 @@ export default function ColnePage() {
               Don’t wait hours for recovery on unlit A-roads or risk driving on damaged rims. Speak with our local Lancashire controller right now for guaranteed instant dispatch.
             </p>
       {/* Primary Action Button: Visible Click-to-Call */}
-      <a className="inline-flex items-center justify-center gap-4 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase font-black shadow-[0_10px_25px_-5px_rgba(0,0,0,0.5),0_0_20px_0_rgba(255,215,0,0.4)] hover:bg-secondary-hover transition-all duration-150 transform hover:scale-105 active:scale-95 mb-6" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-4 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase font-black shadow-[0_10px_25px_-5px_rgba(0,0,0,0.5),0_0_20px_0_rgba(255,215,0,0.4)] hover:bg-secondary-hover transition-all duration-150 transform hover:scale-105 active:scale-95 mb-6" href="tel:07955266077">
       <PhoneCall className="text-primary h-[30px] w-[30px]" />
-      <span>Call Dispatch: 0800 999 2470</span>
+      <span>Call Dispatch: 07955 266 077</span>
       </a>
       {/* Dispatch Details Ticker */}
       <div className="flex flex-wrap items-center justify-center gap-6 text-gray-400 text-[13px] leading-[18px]">

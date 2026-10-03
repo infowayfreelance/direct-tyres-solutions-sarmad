@@ -32,9 +32,9 @@ export default function SalePage() {
             </p>
       {/* CTA Stack */}
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl shadow-primary-container/20 hover:brightness-110 active:scale-95 transition-all" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-xl shadow-primary-container/20 hover:brightness-110 active:scale-95 transition-all" href="tel:07955266077">
       <PhoneCall className="h-6 w-6 font-bold" fill="currentColor" strokeWidth={0} />
-                Call 0800 999 2470
+                Call 07955 266 077
               </a>
       <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-primary/80 hover:bg-primary-light text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold backdrop-blur-md transition-all active:scale-95" href="https://wa.me/448009992470?text=I%20need%20emergency%20mobile%20tyre%20fitting%20in%20Sale" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-emerald-400 h-6 w-6" />
@@ -132,9 +132,9 @@ export default function SalePage() {
       </div>
       {/* Instant Phone Trigger */}
       <div className="pt-2">
-      <a className="w-full inline-flex items-center justify-center gap-3 p-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-lg hover:brightness-110 active:scale-95 transition-all text-center" href="tel:08009992470">
+      <a className="w-full inline-flex items-center justify-center gap-3 p-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase shadow-lg hover:brightness-110 active:scale-95 transition-all text-center" href="tel:07955266077">
       <PhoneCall className="h-5 w-5" />
-                      0800 999 2470
+                      07955 266 077
                     </a>
       <span className="block text-center text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 mt-2">Zero call centres. Direct operator line.</span>
       </div>
@@ -216,7 +216,7 @@ export default function SalePage() {
       </div>
       <div className="flex sm:flex-col items-center gap-2 shrink-0 w-full sm:w-auto justify-between">
       <span className="px-2.5 py-1 rounded-full bg-accent text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold font-semibold">Priority</span>
-      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:08009992470">Dispatch <ArrowRight className="h-3 w-3" /></a>
+      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:07955266077">Dispatch <ArrowRight className="h-3 w-3" /></a>
       </div>
       </div>
       {/* Service 2 */}
@@ -233,7 +233,7 @@ export default function SalePage() {
       </div>
       <div className="flex sm:flex-col items-center gap-2 shrink-0 w-full sm:w-auto justify-between">
       <span className="px-2.5 py-1 rounded-full bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold">Safe &amp; Legal</span>
-      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:08009992470">Enquire <ArrowRight className="h-3 w-3" /></a>
+      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:07955266077">Enquire <ArrowRight className="h-3 w-3" /></a>
       </div>
       </div>
       {/* Service 3 */}
@@ -250,7 +250,7 @@ export default function SalePage() {
       </div>
       <div className="flex sm:flex-col items-center gap-2 shrink-0 w-full sm:w-auto justify-between">
       <span className="px-2.5 py-1 rounded-full bg-primary-light text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold">Specialist</span>
-      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:08009992470">Help Now <ArrowRight className="h-3 w-3" /></a>
+      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:07955266077">Help Now <ArrowRight className="h-3 w-3" /></a>
       </div>
       </div>
       {/* Service 4 */}
@@ -267,7 +267,7 @@ export default function SalePage() {
       </div>
       <div className="flex sm:flex-col items-center gap-2 shrink-0 w-full sm:w-auto justify-between">
       <span className="px-2.5 py-1 rounded-full bg-accent text-white text-[11px] leading-[14px] tracking-[0.06em] font-bold font-semibold">Convenient</span>
-      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:08009992470">Book Today <ArrowRight className="h-3 w-3" /></a>
+      <a className="text-secondary hover:underline text-[11px] leading-[14px] tracking-[0.06em] font-bold flex items-center gap-1" href="tel:07955266077">Book Today <ArrowRight className="h-3 w-3" /></a>
       </div>
       </div>
       </div>
@@ -360,7 +360,7 @@ export default function SalePage() {
                       </div>
       <div>
       <h4 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white">Emergency Call &amp; Location Lock</h4>
-      <p className="text-[13px] leading-[18px] text-gray-400">Call 0800 999 2470. Provide your postcode, street name, or What3Words coordinate.</p>
+      <p className="text-[13px] leading-[18px] text-gray-400">Call 07955 266 077. Provide your postcode, street name, or What3Words coordinate.</p>
       </div>
       <span className="font-mono text-xs text-secondary shrink-0">Minute 0</span>
       </div>
@@ -505,9 +505,9 @@ export default function SalePage() {
       </div>
       {/* Right Action Button Side */}
       <div className="shrink-0 flex flex-col items-center sm:items-end gap-3 z-10 w-full sm:w-auto">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider shadow-2xl shadow-primary-container/30 hover:brightness-110 active:scale-95 transition-all text-center" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider shadow-2xl shadow-primary-container/30 hover:brightness-110 active:scale-95 transition-all text-center" href="tel:07955266077">
       <PhoneCall className="h-6 w-6 font-bold" fill="currentColor" strokeWidth={0} />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <div className="flex items-center gap-2 text-gray-400 text-[11px] leading-[14px] tracking-[0.06em] font-bold">
       <CheckCircle2 className="text-emerald-400 h-[14px] w-[14px]" />

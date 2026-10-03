@@ -21,9 +21,9 @@ export default function PrestwichPage() {
               </p>
       {/* CTA Cluster */}
       <div className="flex flex-wrap items-center gap-space-md mb-space-lg">
-      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-xl font-bold" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-xl font-bold" href="tel:07955266077">
       <PhoneCall className="text-primary h-5 w-5" />
-                  Call 0800 999 2470
+                  Call 07955 266 077
                 </a>
       <a className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-full bg-primary/80 text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary transition-all shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="text-accent h-5 w-5" />
@@ -239,7 +239,7 @@ export default function PrestwichPage() {
       <div className="flex-1 pt-1">
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-1">Instant Call or WhatsApp Dispatch</h3>
       <p className="text-[15px] leading-[24px] text-gray-400">
-                    Dial 0800 999 2470 or send your live pin location. Give us your vehicle registration or tyre sidewall spec (e.g. 225/45 R17).
+                    Dial 07955 266 077 or send your live pin location. Give us your vehicle registration or tyre sidewall spec (e.g. 225/45 R17).
                   </p>
       </div>
       </div>
@@ -373,7 +373,7 @@ export default function PrestwichPage() {
       <div className="p-space-lg rounded-2xl bg-primary/60 shadow-sm">
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white mb-2">What if I do not know my exact tyre size?</h3>
       <p className="text-[15px] leading-[24px] text-gray-400">
-                  Simply provide your vehicle registration when phoning 0800 999 2470. Our DVLA integration checks factory wheels instantly. If aftermarket wheels are installed, we will guide you on reading the embossed sidewall code.
+                  Simply provide your vehicle registration when phoning 07955 266 077. Our DVLA integration checks factory wheels instantly. If aftermarket wheels are installed, we will guide you on reading the embossed sidewall code.
                 </p>
       </div>
       {/* Q4 */}
@@ -427,9 +427,9 @@ export default function PrestwichPage() {
       <p className="text-[18px] leading-[28px] text-gray-400 mb-space-lg">
               Vans stationed in Prestwich and on stand-by near M60 J17 right now. Don&apos;t risk wheel rim damage.
             </p>
-      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-2xl font-black" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 px-10 py-5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold hover:brightness-105 active:scale-95 transition-all shadow-2xl font-black" href="tel:07955266077">
       <PhoneCall className="text-primary h-5 w-5" />
-              Call 0800 999 2470 Now — 24/7
+              Call 07955 266 077 Now — 24/7
             </a>
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-gray-400 mt-space-md">
               Zero hidden fees • Rapid dispatch • All major tyre brands carried

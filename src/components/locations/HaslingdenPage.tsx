@@ -47,9 +47,9 @@ export default function HaslingdenPage() {
       </div>
       {/* Dual Conversion Pillar */}
       <div className="lg:col-span-4 flex flex-col gap-3.5">
-      <a className="group relative flex items-center justify-center gap-3 w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading uppercase tracking-wider transition-all duration-300 hover:brightness-110 active:scale-95 shadow-xl shadow-primary-container/20" href="tel:08009992470">
+      <a className="group relative flex items-center justify-center gap-3 w-full py-4 px-6 rounded-full bg-secondary text-primary font-heading uppercase tracking-wider transition-all duration-300 hover:brightness-110 active:scale-95 shadow-xl shadow-primary-container/20" href="tel:07955266077">
       <PhoneCall className="font-black h-5 w-5 transition-transform group-hover:rotate-12" />
-      <span className="font-extrabold text-lg">0800 999 2470</span>
+      <span className="font-extrabold text-lg">07955 266 077</span>
       </a>
       <a className="flex items-center justify-center gap-2.5 w-full py-3.5 px-6 rounded-full bg-primary-light/70 text-white hover:bg-primary-light transition-colors duration-200 font-semibold" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">
       <MessageCircle className="text-secondary h-5 w-5" />
@@ -338,7 +338,7 @@ export default function HaslingdenPage() {
       <div className="font-heading text-white">A680 / A676</div>
       </div>
       </div>
-      <a className="px-5 py-2.5 rounded-full bg-secondary text-primary font-heading text-xs uppercase tracking-wider hover:brightness-110 transition-all flex items-center gap-2" href="tel:08009992470">
+      <a className="px-5 py-2.5 rounded-full bg-secondary text-primary font-heading text-xs uppercase tracking-wider hover:brightness-110 transition-all flex items-center gap-2" href="tel:07955266077">
       <Navigation className="h-[14px] w-[14px]" />
       <span>Request Roadside Van</span>
       </a>
@@ -474,7 +474,7 @@ export default function HaslingdenPage() {
                   </p>
       <div className="pt-2 flex items-center justify-between border-t border-white/10">
       <span className="text-xs text-gray-400">Verified Callout Log • Lancashire Dispatch</span>
-      <a className="text-secondary hover:underline text-xs font-bold inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-secondary hover:underline text-xs font-bold inline-flex items-center gap-1" href="tel:07955266077">
                       Emergency Line <ArrowRight className="h-3 w-3" />
       </a>
       </div>
@@ -584,11 +584,11 @@ export default function HaslingdenPage() {
             </p>
       {/* Offset / Angled Gold Action Button */}
       <div className="pt-6 flex flex-col sm:flex-row justify-center items-center gap-5">
-      <a className="group transform -rotate-1 hover:rotate-0 transition-transform duration-300 inline-flex items-center justify-center gap-4 py-5 px-10 rounded-full bg-secondary text-primary shadow-2xl shadow-primary-container/30 hover:brightness-110 active:scale-95" href="tel:08009992470">
+      <a className="group transform -rotate-1 hover:rotate-0 transition-transform duration-300 inline-flex items-center justify-center gap-4 py-5 px-10 rounded-full bg-secondary text-primary shadow-2xl shadow-primary-container/30 hover:brightness-110 active:scale-95" href="tel:07955266077">
       <PhoneCall className="h-[30px] w-[30px] font-black transition-transform group-hover:scale-110" />
       <div className="text-left">
       <span className="block text-[11px] font-bold tracking-widest uppercase text-primary">24/7 Fast Response Dispatch</span>
-      <span className="block font-heading text-2xl sm:text-3xl font-black leading-none">0800 999 2470</span>
+      <span className="block font-heading text-2xl sm:text-3xl font-black leading-none">07955 266 077</span>
       </div>
       </a>
       <a className="inline-flex items-center justify-center gap-3 py-4 px-8 rounded-full bg-primary/80 text-white font-bold hover:bg-primary-light transition-colors shadow-lg" href="https://wa.me/448009992470" rel="noopener noreferrer" target="_blank">

@@ -23,9 +23,9 @@ export default function HuddersfieldPage() {
                 </p>
       </div>
       <div className="pt-8 flex flex-col sm:flex-row items-stretch sm:items-center gap-4 relative z-10">
-      <a className="inline-flex items-center justify-center gap-3 bg-primary-dark text-secondary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-primary/60 transition-all transform active:scale-95 shadow-lg group" href="tel:08009992470">
+      <a className="inline-flex items-center justify-center gap-3 bg-primary-dark text-secondary px-8 py-4 rounded-full font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase hover:bg-primary/60 transition-all transform active:scale-95 shadow-lg group" href="tel:07955266077">
       <PhoneCall className="text-secondary group-hover:rotate-12 transition-transform h-5 w-5" />
-      <span>0800 999 2470</span>
+      <span>07955 266 077</span>
       </a>
       <div className="flex items-center gap-2 text-primary/90 text-[14px] leading-[18px] tracking-[0.02em] font-semibold">
       <Zap className="text-accent h-5 w-5" fill="currentColor" strokeWidth={0} />
@@ -549,9 +549,9 @@ export default function HuddersfieldPage() {
                 No tow trucks. No tyre shop queues. Our fully kitted mobile workshop replaces your puncture at home, work, or roadside in 30 minutes.
               </p>
       <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary text-primary px-10 py-5 rounded-full font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-all transform active:scale-95 shadow-xl font-black group" href="tel:08009992470">
+      <a className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-secondary text-primary px-10 py-5 rounded-full font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider hover:bg-secondary-hover transition-all transform active:scale-95 shadow-xl font-black group" href="tel:07955266077">
       <PhoneCall className="h-[26px] w-[26px] group-hover:rotate-12 transition-transform" />
-      <span>Call 0800 999 2470 Now</span>
+      <span>Call 07955 266 077 Now</span>
       </a>
       </div>
       <div className="pt-4 flex flex-wrap justify-center items-center gap-6 text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-gray-400">

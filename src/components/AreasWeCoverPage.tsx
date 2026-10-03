@@ -21,11 +21,11 @@ export default function AreasWeCoverPage() {
             Yorkshire. Find your area below to see local response times and coverage details.
           </p>
           <a
-            href="tel:08009992470"
+            href="tel:07955266077"
             className="mx-auto mt-2 inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-secondary hover:bg-secondary-hover text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-md"
           >
             <PhoneCall className="h-5 w-5" fill="currentColor" strokeWidth={0} />
-            Call 0800 999 2470
+            Call 07955 266 077
           </a>
         </div>
       </section>
@@ -70,11 +70,11 @@ export default function AreasWeCoverPage() {
             </p>
           </div>
           <a
-            href="tel:08009992470"
+            href="tel:07955266077"
             className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-full bg-primary hover:bg-primary-dark text-white font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold transition-all shadow-md shrink-0"
           >
             <PhoneCall className="h-5 w-5" />
-            Call 0800 999 2470
+            Call 07955 266 077
           </a>
         </div>
       </section>

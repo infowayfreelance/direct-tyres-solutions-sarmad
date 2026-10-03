@@ -24,9 +24,9 @@ export default function SandbachPage() {
             </p>
       {/* CTAs */}
       <div className="mt-space-lg flex flex-col sm:flex-row items-center justify-center gap-space-md w-full max-w-md sm:max-w-none">
-      <a className="w-full sm:w-auto px-space-lg py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider flex items-center justify-center gap-space-xs hover:brightness-105 active:scale-95 transition-all shadow-lg" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-space-lg py-3.5 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase tracking-wider flex items-center justify-center gap-space-xs hover:brightness-105 active:scale-95 transition-all shadow-lg" href="tel:07955266077">
       <PhoneCall className="h-[20px] w-[20px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <a className="w-full sm:w-auto px-space-lg py-3.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold uppercase tracking-wider flex items-center justify-center gap-space-xs hover:bg-primary-light active:scale-95 transition-all shadow-md" href="https://wa.me/448009992470">
       <MessageCircle className="h-[20px] w-[20px] text-accent" />
@@ -151,7 +151,7 @@ export default function SandbachPage() {
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary">25–35 min ETA</span>
       </div>
       </div>
-      <a className="w-full py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase text-center tracking-wider hover:brightness-105 active:scale-95 transition-all shadow-md mt-space-xs" href="tel:08009992470">
+      <a className="w-full py-3 rounded-full bg-secondary text-primary font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold uppercase text-center tracking-wider hover:brightness-105 active:scale-95 transition-all shadow-md mt-space-xs" href="tel:07955266077">
                     Dispatch Van Immediately
                   </a>
       </div>
@@ -189,7 +189,7 @@ export default function SandbachPage() {
       </div>
       <div className="mt-space-md flex items-center justify-between pt-space-md bg-primary/80 -mx-space-lg -mb-space-lg px-space-lg py-space-md">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-accent">Run-flats • Low Profile • 4x4</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Request Unit <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -212,7 +212,7 @@ export default function SandbachPage() {
       </div>
       <div className="mt-space-md flex items-center justify-between pt-space-md bg-primary/80 -mx-space-lg -mb-space-lg px-space-lg py-space-md">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-accent">Tread Depth Check • Wheel Balance</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Inspect Tyre <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -235,7 +235,7 @@ export default function SandbachPage() {
       </div>
       <div className="mt-space-md flex items-center justify-between pt-space-md bg-primary/80 -mx-space-lg -mb-space-lg px-space-lg py-space-md">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-accent">All Vehicle Makes • Alloy Safe</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Unlock Wheels <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -258,7 +258,7 @@ export default function SandbachPage() {
       </div>
       <div className="mt-space-md flex items-center justify-between pt-space-md bg-primary/80 -mx-space-lg -mb-space-lg px-space-lg py-space-md">
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-accent">Zero Disruption • Pre-Book or Immediate</span>
-      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:08009992470">
+      <a className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold text-secondary hover:underline inline-flex items-center gap-1" href="tel:07955266077">
                       Book Driveway <ArrowRight className="h-[16px] w-[16px]" />
       </a>
       </div>
@@ -310,7 +310,7 @@ export default function SandbachPage() {
       <Info className="text-secondary h-[18px] w-[18px]" />
       <span>Stranded in a remote lane or field entry? Share your <strong className="text-white font-semibold">what3words</strong> location via WhatsApp.</span>
       </div>
-      <a className="w-full sm:w-auto px-space-md py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary-light uppercase tracking-wider text-center shrink-0" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-space-md py-2.5 rounded-full bg-primary text-white text-[14px] leading-[18px] tracking-[0.02em] font-semibold hover:bg-primary-light uppercase tracking-wider text-center shrink-0" href="tel:07955266077">
                   Check Nearest Van Location
                 </a>
       </div>
@@ -337,7 +337,7 @@ export default function SandbachPage() {
                   </div>
       <h3 className="font-heading text-[16px] leading-[22px] tracking-[0.01em] font-bold text-white uppercase">Urgent Call</h3>
       <p className="text-[13px] leading-[18px] text-gray-400 mt-1">
-                    Ring 0800 999 2470 with your current Sandbach location and vehicle registration.
+                    Ring 07955 266 077 with your current Sandbach location and vehicle registration.
                   </p>
       </div>
       {/* Step 02 */}
@@ -533,9 +533,9 @@ export default function SandbachPage() {
       </div>
       {/* Action Button */}
       <div className="flex flex-col sm:flex-row lg:flex-col items-center gap-space-sm w-full lg:w-auto shrink-0">
-      <a className="w-full sm:w-auto px-space-xl py-4 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider flex items-center justify-center gap-space-xs hover:brightness-105 active:scale-95 transition-all shadow-xl" href="tel:08009992470">
+      <a className="w-full sm:w-auto px-space-xl py-4 rounded-full bg-secondary text-primary font-heading text-[20px] leading-[26px] font-bold uppercase tracking-wider flex items-center justify-center gap-space-xs hover:brightness-105 active:scale-95 transition-all shadow-xl" href="tel:07955266077">
       <PhoneCall className="h-[24px] w-[24px]" />
-      <span>Call 0800 999 2470</span>
+      <span>Call 07955 266 077</span>
       </a>
       <span className="text-gray-400 text-[11px] leading-[14px] tracking-[0.06em] font-bold text-center">
                   Direct Line • 24 Hours • Priority Dispatch
