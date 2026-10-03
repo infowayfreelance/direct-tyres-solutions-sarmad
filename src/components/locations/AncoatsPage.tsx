@@ -317,7 +317,7 @@ export default function AncoatsPage() {
                 <h3 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-bold text-white">
                   Straightforward Pricing for Ancoats Callouts
                 </h3>
-                <p className="text-lg text-white/10 max-w-2xl">
+                <p className="text-lg text-white/70 max-w-2xl">
                   No hidden fees, no mystery fuel surcharges. Every mobile fitting quote in Ancoats includes on-site mobile van dispatch, new rubber valves, electronic balancing, and environmentally compliant old tyre disposal.
                 </p>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-4">
@@ -329,7 +329,7 @@ export default function AncoatsPage() {
                     <div key={label} className="p-4 rounded-xl bg-white/5 backdrop-blur-sm">
                       <div className="text-[11px] font-bold text-secondary-hover uppercase">{label}</div>
                       <div className="text-[22px] leading-[28px] text-white mt-1">{price}</div>
-                      <div className="text-sm text-white/10">{note}</div>
+                      <div className="text-sm text-white/70">{note}</div>
                     </div>
                   ))}
                 </div>

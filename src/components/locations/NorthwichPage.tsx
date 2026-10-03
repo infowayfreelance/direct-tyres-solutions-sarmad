@@ -226,7 +226,7 @@ export default function NorthwichPage() {
                     Damage-Free Extraction
                   </div>
       </div>
-      <div className="p-reverse-lg flex-1 flex flex-col justify-between p-space-lg">
+      <div className="flex-1 flex flex-col justify-between p-space-lg">
       <div>
       <h3 className="font-heading text-[20px] leading-[26px] font-bold text-white">Specialist Locking Nut Removal</h3>
       <p className="mt-space-xs text-[15px] leading-[24px] text-gray-400">

@@ -48,7 +48,7 @@ export default function CheethamHillPage() {
           <h1 className="font-heading uppercase text-[36px] leading-[44px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-extrabold max-w-4xl text-white">
             24/7 Mobile Tyre Fitting in <span className="text-secondary-hover">Cheetham Hill</span>
           </h1>
-          <p className="mt-5 text-lg text-white/10 max-w-2xl leading-relaxed">
+          <p className="mt-5 text-lg text-white/70 max-w-2xl leading-relaxed">
             Emergency roadside &amp; residential driveway tyre fitting dispatched across Cheetham Hill — 20–35 min arrival.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-md">
@@ -362,7 +362,7 @@ export default function CheethamHillPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-secondary animate-ping" />
                     <span className="text-[11px] font-bold uppercase tracking-widest text-secondary-hover">GPS Node: 53.5042&deg; N, 2.2389&deg; W</span>
                   </div>
-                  <span className="text-sm text-white/10">Zone: Cheetham Hill (M8)</span>
+                  <span className="text-sm text-white/70">Zone: Cheetham Hill (M8)</span>
                 </div>
                 <div className="relative z-10 flex flex-col items-center justify-center my-auto">
                   <div className="relative flex items-center justify-center">
