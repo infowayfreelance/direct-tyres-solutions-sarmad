@@ -63,7 +63,7 @@ export default function BrighousePage() {
                   </span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white">
-                  24/7 Mobile Tyre Fitting in Brighouse
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Brighouse</span>
                 </h1>
       <p className="text-[15px] leading-[24px] sm:text-[18px] sm:leading-[28px] text-slate-300 mt-4 max-w-xl">
                   Stranded on the M62, A641, or immobilized in an industrial yard? Our rapid-response fitting fleet brings the workshop direct to your vehicle with zero towing delays.

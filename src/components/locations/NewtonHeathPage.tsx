@@ -35,7 +35,7 @@ export default function NewtonHeathPage() {
                 </div>
               </div>
               <h1 className="font-heading uppercase text-[36px] leading-[40px] md:text-[56px] md:leading-[62px] text-white mb-4 tracking-tight font-extrabold">
-                24/7 Mobile Tyre Fitting in Newton Heath
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Newton Heath</span>
               </h1>
               <p className="text-lg text-gray-300 mb-8 max-w-2xl leading-relaxed">
                 On-demand mobile tyre fitting directly to your driveway, workplace, or roadside in Newton Heath — 20–35 min arrival.

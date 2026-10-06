@@ -20,7 +20,7 @@ export default function AshtonUnderLynePage() {
               </span>
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white max-w-4xl mb-4">
-              24/7 Mobile Tyre Fitting in Ashton-under-Lyne
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Ashton-under-Lyne</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-slate-300 max-w-2xl mb-8">
               Rapid mobile tyre replacement across Snipe Retail Park, Ashton Moss, Lord Sheldon Way &amp; Lord Street. Van dispatched to your roadside breakdown, driveway, or workplace within minutes.

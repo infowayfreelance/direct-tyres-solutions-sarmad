@@ -14,7 +14,7 @@ export default function HazelGrovePage() {
               Cheshire Rapid Dispatch • Average 25-45 Min Response
             </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-extrabold max-w-4xl mb-6">
-              24/7 Mobile Tyre Fitting in Hazel Grove
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Hazel Grove</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl mb-10">
               Stranded on the Silk Road (A6), stuck in a town centre retail park, or flat on your residential driveway? Our dedicated Cheshire response units bring the tyre shop straight to your location.

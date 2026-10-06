@@ -15,7 +15,7 @@ export default function RawtenstallPage() {
               Rossendale Valley • 24/7 Mobile Response
             </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white max-w-4xl leading-none mb-6">
-              24/7 Mobile Tyre Fitting in Rawtenstall
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Rawtenstall</span>
             </h1>
       <p className="text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-gray-400 max-w-2xl mx-auto mb-8">
               24-hour emergency roadside and rural driveway tyre replacement across Rossendale Valley, A56 Haslingden Bypass, A682, and steep Pennine corridors.

@@ -19,7 +19,7 @@ export default function DukinfieldPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider">Dukinfield &amp; Tameside Rapid Dispatch Active</span>
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white max-w-4xl text-balance mb-6">
-                24/7 Mobile Tyre Fitting in Dukinfield
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Dukinfield</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-300 max-w-2xl text-balance mb-8">
                 Immediate roadside, commercial yard, and home driveway dispatch across King Street, Globe Industrial Park, and all surrounding residential zones. Fast 30–60 min ETA.

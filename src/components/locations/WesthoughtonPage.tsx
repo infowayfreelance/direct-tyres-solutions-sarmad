@@ -15,7 +15,7 @@ export default function WesthoughtonPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-secondary">Greater Manchester • Westhoughton Rapid Unit</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white leading-none mb-space-sm">
-                  24/7 Mobile Tyre Fitting in Westhoughton
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Westhoughton</span>
                 </h1>
       {/* Thin Gold Rule */}
       <div className="w-24 h-1 bg-secondary rounded-full mb-space-md"></div>

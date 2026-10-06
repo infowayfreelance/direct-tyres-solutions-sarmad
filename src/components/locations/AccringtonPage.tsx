@@ -16,7 +16,7 @@ export default function AccringtonPage() {
       </div>
       {/* H1 Headline */}
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white max-w-4xl mb-6">
-              24/7 Mobile Tyre Fitting in Accrington
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Accrington</span>
             </h1>
       {/* Subheading */}
       <p className="text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-white max-w-2xl mb-8 font-normal">

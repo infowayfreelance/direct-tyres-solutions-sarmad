@@ -19,7 +19,7 @@ export default function DentonPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold text-secondary uppercase tracking-wider font-bold">Denton Response Unit On Call</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white uppercase mb-4">
-                    24/7 Mobile Tyre Fitting in Denton
+                    24/7 Mobile Tyre Fitting in <span className="text-secondary">Denton</span>
                   </h1>
       <p className="text-[15px] leading-[24px] text-gray-300 mb-6">
                     Rapid on-site dispatch across Clarendon Square, Mottram Road, and M60 Junction 3. Complete puncture repair, emergency tyre replacement, and digital wheel balancing delivered directly to your roadside location, workplace, or home driveway.

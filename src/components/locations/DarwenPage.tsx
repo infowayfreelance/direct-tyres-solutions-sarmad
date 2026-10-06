@@ -15,7 +15,7 @@ export default function DarwenPage() {
                   Lancashire Emergency Rapid Response
                 </div>
       <h1 className="text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-heading">
-                  24/7 Mobile Tyre Fitting in Darwen
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Darwen</span>
                 </h1>
       <p className="text-[15px] leading-[24px] text-white">
                   Rapid mobile tyre replacement across Darwen&apos;s steep valley streets, the A666 corridor, and M65 Junction 4 approaches. Direct to your home driveway or roadside within 25–45 minutes.

@@ -114,7 +114,7 @@ export default function WhitefieldPage() {
                     Home • Workplace • Roadside Mobile Units
                   </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-black max-w-2xl">
-                    24/7 Mobile Tyre Fitting in Whitefield
+                    24/7 Mobile Tyre Fitting in <span className="text-secondary">Whitefield</span>
                   </h1>
       <p className="text-[18px] leading-[28px] text-gray-300">
                     Fast, dependable mobile tyre replacement across Whitefield, Unsworth, and the busy commuter corridors of Bury New Road (A56) and M60 Junctions 17 &amp; 18. Equipped with compressed air, wheel balancers, and full diagnostic sets, our mobile workshops bring the garage directly to your driveway or roadside.

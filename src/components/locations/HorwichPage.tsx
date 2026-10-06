@@ -18,7 +18,7 @@ export default function HorwichPage() {
       </div>
       {/* H1 Headline */}
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white uppercase mb-4">
-              24/7 Mobile Tyre Fitting in Horwich
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Horwich</span>
             </h1>
       {/* Subtitle */}
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-xl mb-8">

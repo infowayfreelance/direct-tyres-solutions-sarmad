@@ -18,7 +18,7 @@ export default function HeywoodPage() {
       </div>
       {/* H1 Page Title */}
       <h1 className="text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black font-heading text-white max-w-4xl uppercase">
-              24/7 Mobile Tyre Fitting in Heywood
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Heywood</span>
             </h1>
       {/* Subtitle */}
       <p className="mt-4 max-w-2xl text-[18px] leading-[28px] text-gray-400/80">

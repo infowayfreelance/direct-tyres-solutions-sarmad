@@ -43,7 +43,7 @@ export default function DidsburyPage() {
                 </div>
               </div>
               <h1 className="font-heading uppercase text-[36px] leading-[44px] lg:text-[56px] lg:leading-[64px] text-white font-extrabold tracking-tight">
-                24/7 Mobile Tyre Fitting in Didsbury
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Didsbury</span>
               </h1>
               <p className="text-lg text-gray-300 max-w-2xl leading-relaxed">
                 Premium on-driveway &amp; roadside mobile tyre fitting across East &amp; West Didsbury — <span className="text-white font-semibold">20–35 min arrival</span>. Emergency roadside repair or quiet driveway replacements before your morning commute.

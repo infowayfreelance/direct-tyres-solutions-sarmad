@@ -50,7 +50,7 @@ export default function OldhamPage() {
             <span className="text-sm text-gray-400">500+ Verified Oldham Drivers</span>
           </div>
           <h1 className="font-heading uppercase text-[36px] leading-[44px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-extrabold max-w-4xl text-white mb-4">
-            24/7 Mobile Tyre Fitting in Oldham
+            24/7 Mobile Tyre Fitting in <span className="text-secondary">Oldham</span>
           </h1>
           <p className="text-lg leading-relaxed text-gray-400 max-w-2xl mx-auto mb-8">
             Rapid response mobile workshops dispatched across Oldham within 20–35 minutes — we fit, balance, and repair tyres directly at your home, workplace, or roadside.

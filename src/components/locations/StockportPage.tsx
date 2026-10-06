@@ -15,7 +15,7 @@ export default function StockportPage() {
       <span className="uppercase tracking-wider text-secondary">M60 Junction 25 &amp; 26 Immediate Dispatch</span>
       </div>
       <h1 className="font-heading text-[56px] leading-[64px] tracking-[-0.02em] font-black text-white leading-none uppercase">
-                  24/7 Mobile Tyre Fitting in Stockport
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Stockport</span>
                 </h1>
       <p className="text-[18px] leading-[28px] text-gray-300 max-w-2xl">
                   Rapid roadside response across M60 Junction 25, A6 Cheadle Road &amp; A34 Ashton Road corridors. Van dispatched in minutes.

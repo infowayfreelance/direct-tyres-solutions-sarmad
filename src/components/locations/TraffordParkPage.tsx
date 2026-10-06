@@ -18,7 +18,7 @@ export default function TraffordParkPage() {
       <span>Trafford Park Logistics Response Hub • 24/7 Active</span>
       </div>
       <h1 className="font-heading lg:font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white uppercase">
-                24/7 Mobile Tyre Fitting in Trafford Park
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Trafford Park</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl">
                 Priority mobile tyre replacement and commercial fleet puncture response across Europe&apos;s largest industrial estate, Parkway (A5081), and Barton Dock Road. Zero depot downtime.

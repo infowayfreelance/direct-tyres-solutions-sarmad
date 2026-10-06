@@ -45,7 +45,7 @@ export default function BlackleyPage() {
               <div className="flex flex-col gap-3">
                 <span className="text-[11px] font-bold uppercase tracking-widest text-secondary">North Manchester Fast Response</span>
                 <h1 className="font-heading uppercase text-[36px] leading-[44px] lg:text-[54px] lg:leading-[62px] font-extrabold tracking-tight text-white">
-                  24/7 Mobile Tyre Fitting in Blackley
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Blackley</span>
                 </h1>
                 <p className="text-lg text-secondary-hover max-w-xl leading-relaxed">
                   Emergency roadside &amp; doorstep mobile tyre replacement across Blackley within 20–35 minutes. Rapid roadside vans equipped for all passenger and fleet tyres.

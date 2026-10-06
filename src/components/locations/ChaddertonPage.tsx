@@ -75,7 +75,7 @@ export default function ChaddertonPage() {
                   On-Call Mobile Tyre Unit
                 </div>
                 <h1 className="font-heading uppercase text-[36px] leading-[44px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-extrabold text-white">
-                  24/7 Mobile Tyre Fitting in Chadderton
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Chadderton</span>
                 </h1>
               </div>
               <p className="text-lg text-gray-300 max-w-2xl">

@@ -50,7 +50,7 @@ export default function GortonPage() {
               </span>
             </div>
             <h1 className="font-heading uppercase text-[28px] leading-[36px] sm:text-[36px] sm:leading-[44px] font-bold tracking-tight mb-2">
-              24/7 Mobile Tyre Fitting in Gorton
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Gorton</span>
             </h1>
             <p className="text-base text-secondary-hover mb-6 max-w-xl">
               Fast roadside &amp; doorstep mobile tyre replacement across Gorton — average arrival in <strong className="text-secondary font-semibold">20–35 minutes</strong>.

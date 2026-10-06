@@ -21,7 +21,7 @@ export default function HalifaxPage() {
       <span>MOBILE</span>
       <span className="text-gray-400">TYRE</span>
       <span>FITTING</span>
-      <span className="text-accent">HALIFAX</span>
+      <span className="text-secondary">HALIFAX</span>
       </h1>
       <p className="text-[18px] leading-[28px] text-gray-300 mt-6 max-w-xl">
                     Roadside punctures on Godley Cutting, steep residential driveways in Skircoat Green, or retail park blowouts in Broad Street Plaza. We bring the heavy-duty workshop direct to your wheel in Calderdale.
