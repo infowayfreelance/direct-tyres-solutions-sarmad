@@ -16,7 +16,7 @@ export default function MilnrowPage() {
                   24/7 Rapid Response Unit
                 </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-extrabold">
-                  24/7 Mobile Tyre Fitting in Milnrow
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Milnrow</span>
                 </h1>
       <p className="text-[15px] leading-[24px] text-gray-400">
                   Critical response across M62 Junction 21, Elizabethan Way (A640), and local driveways. Direct road-ready mobile dispatch with zero recovery delays.

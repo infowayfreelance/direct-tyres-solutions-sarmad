@@ -14,7 +14,7 @@ export default function PrestwichPage() {
                 24/7 Rapid Mobile Response — Prestwich &amp; M60
               </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-black mb-space-md">
-                24/7 Mobile Tyre Fitting in Prestwich
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Prestwich</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-xl mb-space-lg">
                 Stuck with a puncture on Bury New Road, stranded before the school run, or facing tyre failure near M60 Junction 17? Our fully fitted mobile workshops reach your driveway, office, or roadside spot within 30–60 minutes.

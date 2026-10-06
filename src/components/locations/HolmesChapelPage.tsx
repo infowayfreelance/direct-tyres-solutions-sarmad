@@ -20,7 +20,7 @@ export default function HolmesChapelPage() {
       </div>
       {/* Main Headline */}
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-black uppercase mb-space-md">
-              24/7 Mobile Tyre Fitting in Holmes Chapel
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Holmes Chapel</span>
             </h1>
       {/* Subtitle */}
       <p className="text-[18px] leading-[28px] text-white mb-space-lg max-w-lg">

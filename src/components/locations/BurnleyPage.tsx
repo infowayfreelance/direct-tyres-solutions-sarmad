@@ -17,7 +17,7 @@ export default function BurnleyPage() {
       <span className="text-[14px] leading-[18px] tracking-[0.02em] font-semibold tracking-wider uppercase font-bold text-white">Lancashire Rapid Dispatch Active</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white leading-none drop-shadow-md">
-                24/7 Mobile Tyre Fitting in Burnley
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Burnley</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-white max-w-3xl">
                 Rapid roadside puncture replacement and workplace fleet tyre fitting across Burnley, Turf Moor, M65 Junctions 10 &amp; 11, and the A682 corridor. Mobile workshop vans on-site within 25–35 minutes.

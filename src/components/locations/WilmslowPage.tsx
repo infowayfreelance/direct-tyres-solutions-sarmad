@@ -16,7 +16,7 @@ export default function WilmslowPage() {
                   Cheshire Rapid Response
                 </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white mb-4">
-                  24/7 Mobile Tyre Fitting in Wilmslow
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Wilmslow</span>
                 </h1>
       <p className="text-[15px] leading-[24px] text-slate-300 mb-6">
                   Immediate emergency roadside intervention and driveway tyre fitting for executive cars, prestige SUVs, and commuter saloons. Operating right across Wilmslow, the Handforth Bypass corridor, and Alderley Edge borders.

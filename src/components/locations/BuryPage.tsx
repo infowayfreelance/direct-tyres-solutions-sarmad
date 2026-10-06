@@ -14,7 +14,7 @@ export default function BuryPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase text-secondary tracking-wider">Direct Tyre Solutions UK • Bury Tier 1 Response</span>
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white">
-                24/7 Mobile Tyre Fitting in Bury
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Bury</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl">
                 Rapid roadside, car park, and driveway dispatch covering The Rock shopping district, Moorgate, Pilsworth Retail Park, and the heavy M66 &amp; A56 arterial corridors. Standard 30–45 minute on-scene response with fully equipped workshop vans.

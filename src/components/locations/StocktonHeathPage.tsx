@@ -24,7 +24,7 @@ export default function StocktonHeathPage() {
       </div>
       {/* Main Headline */}
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white max-w-4xl uppercase mb-6">
-              24/7 Mobile Tyre Fitting in Stockton Heath
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Stockton Heath</span>
             </h1>
       {/* Subtitle */}
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-3xl mb-10">

@@ -44,9 +44,7 @@ export default function ManchesterCityCentrePage() {
               <div className="space-y-2">
                 <h1 className="font-heading uppercase text-[40px] leading-[1.08] md:text-[56px] tracking-tight">
                   24/7 Mobile Tyre Fitting in{" "}
-                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-secondary/15 via-white to-secondary">
-                    Manchester City Centre
-                  </span>
+                  <span className="text-secondary">Manchester City Centre</span>
                 </h1>
                 <p className="text-lg text-secondary-hover max-w-2xl leading-relaxed">
                   Specialist mobile tyre technicians equipped for city centre multi-storeys, underground car parks, and curbside emergencies in 15–30 minutes.

@@ -18,7 +18,7 @@ export default function WiganPage() {
                 24/7 RAPID DISPATCH ACROSS GREATER MANCHESTER &amp; WIGAN
               </div>
       <h1 className="text-[36px] leading-[42px] tracking-[-0.01em] font-black lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black font-heading text-white mb-4">
-                24/7 Mobile Tyre Fitting in Wigan
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Wigan</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl mb-8">
                 Immediate roadside, retail park, and residential emergency tyre fitting across Wigan, Robin Park Retail Park, M6 Junctions 25–27, and the A49 corridor. Vans equipped with laser balancing and high-capacity tyre changers ready for immediate deployment.

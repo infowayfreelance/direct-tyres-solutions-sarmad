@@ -24,7 +24,7 @@ export default function WakefieldPage() {
                 </span>
       </div>
       <h1 className="font-heading text-[28px] leading-[34px] tracking-[-0.01em] font-extrabold md:text-[40px] md:leading-[48px] md:tracking-[-0.02em] md:font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white uppercase">
-                24/7 Mobile Tyre Fitting in Wakefield
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Wakefield</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-white max-w-xl">
                 Stranded roadside or flat on your driveway? Our equipped mobile fitting vans arrive anywhere across Wakefield, the A638 corridor, and surrounding West Yorkshire arteries within 30–60 minutes.

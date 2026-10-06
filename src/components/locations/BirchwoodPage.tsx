@@ -18,7 +18,7 @@ export default function BirchwoodPage() {
       <span>Birchwood Logistics Response Hub • 24/7 Active</span>
       </div>
       <h1 className="font-heading lg:font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white uppercase">
-                24/7 Mobile Tyre Fitting in Birchwood
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Birchwood</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl">
                 Priority mobile tyre replacement and commercial fleet puncture response across the Birchwood Park business estate, Parkway (A574), and Birchwood Park Avenue. Zero depot downtime.

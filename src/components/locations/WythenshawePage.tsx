@@ -15,7 +15,7 @@ export default function WythenshawePage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-secondary">Time-Critical Emergency Response</span>
       </div>
       <h1 className="text-[36px] leading-[42px] tracking-[-0.01em] font-black lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black font-heading text-white">
-                  24/7 Mobile Tyre Fitting in Wythenshawe
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Wythenshawe</span>
                 </h1>
       <p className="text-[18px] leading-[28px] text-slate-300 max-w-2xl">
                   Stranded on your way to Manchester Airport or caught with a hazardous blowout on the M56? Our dedicated local tyre technicians provide rapid roadside puncture replacements, run-flat repairs, and wheel installations across Wythenshawe and South Manchester in under 45 minutes.

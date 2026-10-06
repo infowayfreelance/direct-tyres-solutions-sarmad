@@ -21,7 +21,7 @@ export default function ColnePage() {
       {/* Oversized Headline */}
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[46px] sm:leading-[52px] font-black text-white uppercase mb-4">
                 24/7 Mobile Tyre <br className="hidden sm:inline"/>
-      <span className="text-secondary">Fitting in Colne</span>
+      Fitting in <span className="text-secondary">Colne</span>
       </h1>
       {/* Commuter & Pennine Fringe Subheading */}
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-xl mb-8 font-normal">

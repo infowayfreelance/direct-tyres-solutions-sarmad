@@ -14,7 +14,7 @@ export default function LittleboroughPage() {
               Littleborough &amp; South Pennines • 24/7 Rapid Response
             </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white mb-space-md max-w-4xl drop-shadow-md">
-              24/7 Mobile Tyre Fitting in Littleborough
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Littleborough</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-gray-300 max-w-2xl mb-space-lg">
               Immediate Pennine roadside tyre replacement across the A58, A6033, and M62 corridors. Avoid costly recovery flatbeds—our fully-equipped mobile workshops replace and balance tyres on-site within 30–50 minutes.

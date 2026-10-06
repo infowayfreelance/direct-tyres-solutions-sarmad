@@ -44,7 +44,7 @@ export default function UppermillPage() {
             </div>
           </div>
           <h1 className="font-heading uppercase text-[36px] leading-[44px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] font-extrabold text-white max-w-4xl mb-4">
-            24/7 Mobile Tyre Fitting <span className="text-secondary">in Uppermill</span>
+            24/7 Mobile Tyre Fitting in <span className="text-secondary">Uppermill</span>
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mb-8 leading-relaxed">
             Your dedicated village roadside &amp; home tyre replacement service — rapid dispatch across Uppermill in 25–40 minutes.

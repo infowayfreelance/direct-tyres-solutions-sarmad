@@ -14,7 +14,7 @@ export default function AltrinchamPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-white">Emergency Breakdown &amp; Driveway Service</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white leading-[1.08]">
-                24/7 Mobile Tyre Fitting in Altrincham
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Altrincham</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-xl">
                 Rapid mobile tyre replacement across Altrincham, Hale, Bowdon, and Timperley. Purpose-built on-site service protecting performance alloys and resolving high-speed blowouts along the M56 and A56 without tow truck recovery.

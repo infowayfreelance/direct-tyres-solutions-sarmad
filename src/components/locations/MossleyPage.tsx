@@ -16,7 +16,7 @@ export default function MossleyPage() {
       <span>RAPID RESPONSE TECH ON PATROL IN TAMESIDE &amp; SADDLEWORTH</span>
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white uppercase mb-4">
-              24/7 Mobile Tyre Fitting in Mossley
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Mossley</span>
             </h1>
       <p className="text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-gray-300 max-w-2xl mb-8">
               Stranded on steep Pennine inclines or isolated routes? We deliver roadside tyre replacement across the <strong className="text-white font-semibold">A670 Manchester Road</strong>, high-altitude moorland stretches of the <strong className="text-white font-semibold">A635 Isle of Skye approach</strong>, and throughout rural Mossley. Avoid high-risk flatbed recoveries on narrow hillside passes.

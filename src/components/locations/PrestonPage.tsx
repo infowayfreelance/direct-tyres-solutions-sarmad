@@ -30,7 +30,7 @@ export default function PrestonPage() {
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white uppercase drop-shadow-md">
                   24/7 Mobile Tyre Fitting <br className="hidden sm:inline"/>
-      <span className="text-secondary">in Preston</span>
+      in <span className="text-secondary">Preston</span>
       </h1>
       <p className="text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-gray-300 max-w-2xl text-shadow">
                   Lancashire&apos;s mission-critical breakdown network. Instant roadside response, precision fleet tyre replacement, and motorway puncture recovery across M6, M55, M65, and Preston bypasses.

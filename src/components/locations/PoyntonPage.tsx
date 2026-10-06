@@ -15,7 +15,7 @@ export default function PoyntonPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold tracking-wider uppercase text-white">Cheshire Response Unit • Poynton &amp; Bramhall</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-black leading-none">
-                24/7 Mobile Tyre Fitting in Poynton
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Poynton</span>
               </h1>
       <p className="text-[18px] leading-[28px] text-white/90 max-w-2xl">
                 Don&apos;t let a morning flat tyre ruin the school run or your commute. Our fully equipped mobile workshops bring professional tyre fitting straight to your driveway in Poynton and Bramhall borders.

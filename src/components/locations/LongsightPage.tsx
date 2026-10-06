@@ -29,7 +29,7 @@ export default function LongsightPage() {
             </div>
           </div>
           <h1 className="font-heading uppercase text-[28px] leading-[36px] md:text-[56px] md:leading-[64px] font-extrabold text-white max-w-4xl tracking-tight mb-2">
-            24/7 Mobile Tyre Fitting in Longsight
+            24/7 Mobile Tyre Fitting in <span className="text-secondary">Longsight</span>
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mb-6 leading-relaxed">
             Rapid on-demand mobile tyre fitting to your doorstep or roadside in Longsight within 20–35 minutes. No tow trucks, no garage queues.

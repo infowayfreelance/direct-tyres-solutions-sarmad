@@ -147,7 +147,7 @@ export default function BramhallPage() {
                     Bramhall &amp; Cheshire Golden Triangle
                   </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white">
-                    24/7 Mobile Tyre Fitting in Bramhall
+                    24/7 Mobile Tyre Fitting in <span className="text-secondary">Bramhall</span>
                   </h1>
       <p className="text-[18px] leading-[28px] text-gray-400">
                     Immediate roadside resolution, discreet private driveway service, and urgent school-run intervention. Operating seamlessly throughout London Road, Woodbrook Road, and along The Edge, Direct Tyre Solutions brings fully equipped mobile fitting bays right to your chassis within 25–35 minutes.

@@ -17,7 +17,7 @@ export default function RamsbottomPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-white">Rossendale Valley Coverage</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white max-w-4xl mb-4">
-              24/7 Mobile Tyre Fitting in Ramsbottom
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Ramsbottom</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-2xl mb-8">
               Immediate roadside and driveway deployment across the Pennine corridor and Rossendale Valley. On-scene tyre replacement for severe rural inclines, Holcombe Hill approaches, and the M66/A56 trunk route.

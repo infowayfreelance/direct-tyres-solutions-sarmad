@@ -16,7 +16,7 @@ export default function HuddersfieldPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-primary font-bold">West Yorkshire Rapid Response</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black uppercase text-primary font-black leading-[1.05]">
-                  24/7 Mobile Tyre Fitting in Huddersfield
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Huddersfield</span>
                 </h1>
       <p className="text-[18px] leading-[28px] text-primary/80 max-w-xl font-medium">
                   Stranded at Ainley Top, stuck on the Castlegate loop, or flat at home? Our roadside tyre service vans arrive directly at your location equipped with full digital balancing and tyre replacement machinery.

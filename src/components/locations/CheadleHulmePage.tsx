@@ -17,7 +17,7 @@ export default function CheadleHulmePage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider text-white">Live Emergency Dispatch: Cheshire &amp; A34 Corridor</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white mb-4 max-w-4xl drop-shadow-lg">
-              24/7 Mobile Tyre Fitting in Cheadle Hulme
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Cheadle Hulme</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-white/90 max-w-2xl mx-auto mb-8 font-normal">
               Immediate roadside tyre replacement across A34 Junction 19 (Tabley Interchange), A555, and rural M60 connectors. Vans fully stocked and mobile within 25–40 minutes.

@@ -14,7 +14,7 @@ export default function MiddletonPage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-widest text-secondary">M60 J19 • A664 Rapid Response Hub</span>
       </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white font-black leading-none">
-                24/7 Mobile Tyre Fitting in Middleton
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Middleton</span>
               </h1>
       {/* Thin gold rule */}
       <div className="w-28 h-1 bg-secondary mt-6 mb-6"></div>

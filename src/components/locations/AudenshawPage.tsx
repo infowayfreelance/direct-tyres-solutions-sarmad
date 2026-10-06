@@ -19,7 +19,7 @@ export default function AudenshawPage() {
       </div>
       {/* H1 Heading */}
       <h1 className="font-heading text-[56px] leading-[64px] tracking-[-0.02em] font-black text-white font-black leading-none drop-shadow-sm">
-                24/7 Mobile Tyre Fitting in Audenshaw
+                24/7 Mobile Tyre Fitting in <span className="text-secondary">Audenshaw</span>
               </h1>
       {/* Context & Scope Description */}
       <p className="text-[18px] leading-[28px] text-white max-w-2xl">

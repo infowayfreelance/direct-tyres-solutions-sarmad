@@ -14,7 +14,7 @@ export default function IrlamPage() {
               24/7 Rapid Response Unit • Irlam &amp; M60 Corridor
             </div>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold md:font-heading md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black text-white uppercase text-balance mb-6">
-              24/7 Mobile Tyre Fitting in Irlam
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Irlam</span>
             </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 max-w-3xl mb-8">
               Heavy commercial van and passenger tyre replacement across Northbank Industrial Estate, Cadishead Way (A57), and Irlam residential estates. Fast roadside and on-site fitting with zero downtime.

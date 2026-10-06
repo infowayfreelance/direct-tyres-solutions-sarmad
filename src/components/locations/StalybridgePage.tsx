@@ -24,7 +24,7 @@ export default function StalybridgePage() {
       <span className="text-xs text-gray-400">Stalybridge &amp; Pennine Fringe</span>
       </div>
       <h1 className="font-heading text-[28px] leading-[34px] tracking-[-0.01em] font-extrabold md:text-[40px] md:leading-[48px] md:tracking-[-0.02em] md:font-extrabold text-white font-black uppercase text-balance">
-              24/7 Mobile Tyre Fitting in Stalybridge
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Stalybridge</span>
             </h1>
       <p className="mt-4 text-[15px] leading-[24px] md:text-[18px] md:leading-[28px] text-gray-400 max-w-2xl text-balance">
               Emergency roadside tyre repair and rapid driveway fitting along the <span className="text-white font-semibold">A6018 Stamford Street</span>, steep Pennine inclines, and the commuter corridor of the <span className="text-white font-semibold">A635 towards Mossley</span>.

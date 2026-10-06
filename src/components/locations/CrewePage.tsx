@@ -15,7 +15,7 @@ export default function CrewePage() {
       <span className="text-[11px] leading-[14px] tracking-[0.06em] font-bold uppercase tracking-wider">Cheshire Fast Rapid Dispatch • Avg ETA 30-45m</span>
       </div>
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black lg:text-[56px] lg:leading-[64px] lg:tracking-[-0.02em] lg:font-black text-white font-black leading-none mb-6">
-                  24/7 Mobile Tyre Fitting in Crewe
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Crewe</span>
                 </h1>
       <div className="w-28 h-1 bg-secondary rounded-full mb-8"></div>
       <div className="flex flex-col xl:flex-row xl:items-start gap-6 mb-8">

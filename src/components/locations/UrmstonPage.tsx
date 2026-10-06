@@ -22,7 +22,7 @@ export default function UrmstonPage() {
       </div>
       {/* Main Headline */}
       <h1 className="font-heading text-[36px] leading-[42px] tracking-[-0.01em] font-black sm:text-[56px] sm:leading-[64px] sm:tracking-[-0.02em] sm:font-black text-white max-w-4xl text-balance mb-space-md drop-shadow-sm">
-              24/7 Mobile Tyre Fitting in Urmston
+              24/7 Mobile Tyre Fitting in <span className="text-secondary">Urmston</span>
             </h1>
       {/* Reassuring Subtitle */}
       <p className="text-[15px] leading-[24px] sm:text-[18px] sm:leading-[28px] text-gray-400 max-w-2xl text-balance mb-space-xl">

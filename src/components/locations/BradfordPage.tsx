@@ -19,7 +19,7 @@ export default function BradfordPage() {
       </div>
       <div className="flex flex-col gap-3">
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold text-white font-black leading-none uppercase">
-                  24/7 Mobile Tyre Fitting in Bradford
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Bradford</span>
                 </h1>
       <p className="text-[18px] leading-[28px] text-gray-400 font-normal">
                   Immediate roadside rescue and on-demand fitting across Bradford. Rapid van dispatch to the M606, A650 corridor, home driveways, and corporate depots in under 35 minutes.

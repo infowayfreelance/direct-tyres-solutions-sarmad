@@ -117,7 +117,7 @@ export default function FailsworthPage() {
                   <span className="text-sm text-white/70">Verified Google Rating across Oldham &amp; Manchester</span>
                 </div>
                 <h1 className="font-heading uppercase text-[40px] leading-[48px] md:text-[56px] md:leading-[64px] tracking-[-0.02em] md:tracking-[-0.03em] text-white">
-                  24/7 Mobile Tyre Fitting in Failsworth
+                  24/7 Mobile Tyre Fitting in <span className="text-secondary">Failsworth</span>
                 </h1>
                 <p className="text-lg text-white/70 max-w-2xl leading-relaxed">
                   Professional mobile tyre replacement fitted on your drive or roadside in Failsworth within 20–30 minutes. Rapid response technicians deployed with full workshop vans.

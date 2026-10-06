@@ -33,7 +33,7 @@ export default function ChorleyPage() {
                   </span>
       <h1 className="font-heading text-[40px] leading-[48px] tracking-[-0.02em] font-extrabold md:text-[56px] md:leading-[64px] md:tracking-[-0.02em] md:font-black uppercase text-white leading-none">
                     24/7 Mobile Tyre <br className="hidden sm:inline"/>
-      <span className="text-secondary underline decoration-accent/40">Fitting in Chorley</span>
+      Fitting in <span className="text-secondary underline decoration-accent/40">Chorley</span>
       </h1>
       <p className="mt-6 text-[18px] leading-[28px] text-white max-w-2xl">
                     Stranded on the hard shoulder or stalled in a Botany Bay distribution hub? Our heavy-duty mobile fitting vans are stationed across the <strong className="text-secondary font-semibold">M61 corridor (J6 &amp; J8)</strong> and <strong className="text-secondary font-semibold">M6 Junction 28</strong>. Get roadside tyre replacement without dealership towing delays.
