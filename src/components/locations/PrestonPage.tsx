@@ -6,7 +6,7 @@ export default function PrestonPage() {
     <main className="w-full pt-20 bg-primary-dark">
       {/* 1. HERO: Cinematic Frame Hero */}
       <section className="relative w-full px-space-md lg:px-margin pt-space-md lg:pt-space-lg">
-      <div className="relative w-full aspect-[16/10] md:aspect-[21/9] rounded-2xl overflow-hidden shadow-2xl bg-primary-dark">
+      <div className="relative w-full min-h-[600px] md:min-h-0 md:aspect-[21/9] rounded-2xl overflow-hidden shadow-2xl bg-primary-dark">
       {/* Background Image with Scrim */}
       <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 hover:scale-105" data-alt="Emergency motorway tyre fitting van with amber strobe flashing beacons parked on the hard shoulder of the UK M6 near Preston at dusk, technician servicing a stranded car in rain-slicked asphalt with high-contrast safety lighting, deep cinematic blue hour atmosphere." style={{ backgroundImage: "url('/hero-section-images-936x527.webp')" }}>
       </div>
